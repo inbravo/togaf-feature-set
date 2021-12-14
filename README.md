@@ -14,7 +14,7 @@
 - The TOGAF standard considers an "enterprise" to be any collection of organizations that have common goals
 
 ## Purpose of Enterprise Architecture
-- To optimize across the enterprise the often fragmented legacy of processes (both manual and automated) into an integrated environment that is responsive to change and supportive of the delivery of the business strategy
+- To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy
 
 ## Benefits of an Enterprise Architecture
 - More effective and efficient business operations
@@ -22,13 +22,37 @@
 - Better return on existing investment, reduced risk for future investment
 - Faster, simpler, and cheaper procurement
 
-## What specifically would prompt the development of an Enterprise Architecture?
+## What would prompt the development of an Enterprise Architecture?
 - Preparation for business transformation needs
 - Any radical infrastructure changes initiates
-- Often key stake holders identify areas of change required in order for new business goals to be met. The role of the architect is to address their concerns
 
 ## What is an architecture framework?
-- An architecture framework is a foundational structure, or set of structures, which can be used for developing a broad range of different architectures. 
+- An architecture framework is a foundational structure, or set of structures, which can be used for developing different architectures 
 - It should describe a method for designing a target state of the enterprise in terms of a set of building blocks
 - It should contain a set of tools and provide a common vocabulary 
-- It should also include a list of recommended standards and compliant products that can be used to implement the building blocks.
+- It should also include a list of recommended standards and compliant products that can be used to implement the building blocks
+
+## The Value of a architecture framework
+- Avoids the initial panic when the scale of the task becomes apparent and provides a practical starting point for an architecture project
+- Systematic **'Codified Common Sense'**
+
+## Why use the TOGAF standard as a framework for Enterprise Architecture?
+- The TOGAF standard provides a best practice framework for adding value, and enables the organization to build workable and economic solutions which address their business issues and needs
+
+## TOGAF origins
+- A customer initiative
+- Originally based on TAFIM (US DoD)
+- A **Framework** not **Architecture** to develop architectures to meet different business needs
+
+## What Kind of Architecture Does the TOGAF Standard Deal With? (BDAT)
+- **Business architecture**: defines the business strategy, governance, organization, and key business processes
+- **Data architecture**: describes the structure of an organization's logical and physical data assets and data management resources
+- **Application architecture**: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
+- **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
+
+## Architecture Development Method
+- A compresensive general method of enterprise architecture (EA) development, based on best practices
+- Complementary to, not competing with, other frameworks
+- Vendor, tool and technology neutral
+- Avoids re-inventing the wheel
+- Business IT alignment
