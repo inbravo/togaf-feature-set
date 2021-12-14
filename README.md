@@ -32,7 +32,7 @@
 - It should contain a set of tools and provide a common vocabulary 
 - It should also include a list of recommended standards and compliant products that can be used to implement the building blocks
 
-## The Value of a architecture framework
+## The Value of an architecture framework
 - Avoids the initial panic when the scale of the task becomes apparent and provides a practical starting point for an architecture project
 - Systematic **'Codified Common Sense'**
 
@@ -50,7 +50,7 @@
 - **Application architecture**: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
 - **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
 
-## Architecture Development Method
+## TOGAF Architecture Development Method (ADM)
 - A compresensive general method of enterprise architecture (EA) development, based on best practices
 - Complementary to, not competing with, other frameworks
 - Vendor, tool and technology neutral
