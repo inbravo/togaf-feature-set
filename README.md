@@ -44,15 +44,13 @@
 - Originally based on TAFIM (US DoD)
 - A **Framework** not **Architecture** to develop architectures to meet different business needs
 
-## What Kind of Architecture Does the TOGAF Standard Deal With? (BDAT)
+## What Kind of Architecture does the TOGAF Standard Deal With? (BDAT)
 - **Business architecture**: defines the business strategy, governance, organization, and key business processes
 - **Data architecture**: describes the structure of an organization's logical and physical data assets and data management resources
 - **Application architecture**: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
 - **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
 
 ## TOGAF Architecture Development Method (ADM)
-- A compresensive general method of enterprise architecture (EA) development, based on best practices
-- Complementary to, not competing with, other frameworks
-- Vendor, tool and technology neutral
-- Avoids re-inventing the wheel
-- Business IT alignment
+- The TOGAF Architecture Development Method (ADM) provides a tested and repeatable process for developing architectures, which aligns Business & IT
+- ADM is a compresensive general method of enterprise architecture (EA) development, based on best practices 
+- Complementary to, not competing with, other frameworks. It's Vendor, tool and technology neutral ad avoids re-inventing the wheel
