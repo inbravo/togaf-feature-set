@@ -51,6 +51,7 @@
 - **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
 
 ## TOGAF Architecture Development Method (ADM)
-- The TOGAF Architecture Development Method (ADM) provides a tested and repeatable process for developing architectures, which aligns Business & IT
-- ADM is a compresensive general method of enterprise architecture (EA) development, based on best practices 
+- The TOGAF ADM provides a tested and repeatable process for developing architectures, which aligns Business & IT
+- ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
 - Complementary to, not competing with, other frameworks. It's Vendor, tool and technology neutral ad avoids re-inventing the wheel
+- TOGAF is an iterative method including multiple phases
