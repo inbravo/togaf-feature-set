@@ -56,7 +56,15 @@
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
 - Complementary to, not competing with, other frameworks. It's Vendor, tool and technology neutral ad avoids re-inventing the wheel
 
-![](/images/adm.png)
+<p align="center"><img src="images/adm.png" width="700"></p>
+
+## Architecture Phases A-B-C-D
+| Phase | Deliverable | Content | Version | 
+| ----------- | ----------- |
+| A: Architecture Vision | Architecture Vision |  Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
+| B: Business Architecture | Architecture Definition Document |  Business Architecture | 1.0
+| C: Information System Architecture | Architecture Definition Document |  Data Architecture, Application Architecture | 1.0
+| C: Technology System Architecture | Architecture Definition Document |  Technology Architecture | 1.0
 
 ## Activities in Architecture Phases B-C-D (Business, Information Systems and Technology Architectures)
 - Select reference models, viewpoints, and tools
