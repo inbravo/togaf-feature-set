@@ -58,13 +58,15 @@
 
 <p align="center"><img src="images/adm.png" width="700"></p>
 
+<p align="center"><img src="images/adm-details.png" width="700"></p>
+
 ## Architecture Phases A-B-C-D
 | Phase | Deliverable | Content | Version | 
 | ----------- | ----------- | ----------- | ----------- |
 | A: Architecture Vision | Architecture Vision |  Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
 | B: Business Architecture | Architecture Definition Document |  Business Architecture | 1.0
 | C: Information System Architecture | Architecture Definition Document |  Data Architecture, Application Architecture | 1.0
-| C: Technology System Architecture | Architecture Definition Document |  Technology Architecture | 1.0
+| D: Technology System Architecture | Architecture Definition Document |  Technology Architecture | 1.0
 
 ## Activities in Architecture Phase A (Architecture Vision)
 - Establish the Project 
@@ -73,15 +75,7 @@
 - Define Scope 
 - Define Constraints 
 - Identify Stakeholders and Concerns, Business Requirements
-- Create Architecture Vision 
-	- Baseline Business Architecture, Version 0.1
-    - Baseline Technology Architecture, Version 0.1
-    - Baseline Data Architecture, Version 0.1
-    - Baseline Applications Architecture, Version 0.1
-    - Target Business Architecture, Version 0.1
-    - Target Technology Architecture, Version 0.1
-    - Target Data Architecture, Version 0.1
-    - Target Applications Architecture, Version 0.1	
+- Create Architecture Vision (Baseline/Target Business, Data, Applications, Technology Architecture, Version 0.1
 - Develop Statement of Architecture Work and Secure Approval 
 
 ## Activities in Architecture Phases B-C-D
