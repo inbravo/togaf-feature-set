@@ -44,6 +44,9 @@
 - Originally based on TAFIM (US DoD)
 - A **Framework** not **Architecture** to develop architectures to meet different business needs
 
+<p align="center"><img src="images/togaf-components.png" width="700"></p>
+<p align="center"><a href="https://dev-clone.nuxtjs.app/chanduthedev/457368">Image credit</a></p>
+
 ## What Kind of Architecture does the TOGAF Standard Deal With? (BDAT)
 - **Business architecture**: defines the business strategy, governance, organization, and key business processes
 - **Data architecture**: describes the structure of an organization's logical and physical data assets and data management resources
@@ -56,9 +59,8 @@
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
 - Complementary to, not competing with, other frameworks. It's Vendor, tool and technology neutral ad avoids re-inventing the wheel
 
-<p align="center"><img src="images/adm.png" width="700"></p>
-
 <p align="center"><img src="images/adm-details.png" width="700"></p>
+<p align="center"><a href="https://dev.to/chanduthedev/togaf-9-2-components-1flb">Image credit</a></p>
 
 ## Architecture Phases A-B-C-D
 | Phase | Deliverable | Content | Version | 
