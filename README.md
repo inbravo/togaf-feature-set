@@ -57,7 +57,8 @@
 - TOGAF is an iterative method including multiple phases to develop various architectures
 - The TOGAF ADM provides a tested and repeatable process, which aligns Business & IT
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
-- Complementary to, not competing with, other frameworks. It's Vendor, tool and technology neutral ad avoids re-inventing the wheel
+- The ADM is also useful to populate the **Foundation Architecture** of an enterprise 
+- Business requirements of an enterprise may be used to identify the necessary definitions and selections in the **Foundation Architecture**
 
 <p align="center"><img src="images/adm-details.png" width="700"></p>
 <p align="center"><a href="https://dev.to/chanduthedev/togaf-9-2-components-1flb">Image credit</a></p>
@@ -65,12 +66,12 @@
 ## Architecture Phases A-B-C-D
 | Phase | Deliverable | Content | Version | 
 | ----------- | ----------- | ----------- | ----------- |
-| A: Architecture Vision | Architecture Vision |  Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
-| B: Business Architecture | Architecture Definition Document |  Business Architecture | 1.0
-| C: Information System Architecture | Architecture Definition Document |  Data Architecture, Application Architecture | 1.0
-| D: Technology System Architecture | Architecture Definition Document |  Technology Architecture | 1.0
+| A: Architecture Vision | Architecture Vision | Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
+| B: Business Architecture | Architecture Definition Document | Business Architecture | 1.0
+| C: Information System Architecture | Architecture Definition Document | Data Architecture, Application Architecture | 1.0
+| D: Technology System Architecture | Architecture Definition Document | Technology Architecture | 1.0
 
-## Activities in Architecture Phase A (Architecture Vision)
+## Activities Phase A (Architecture Vision)
 - Establish the Project 
 - Identify Business Goals and Business Drivers 
 - Review Architecture Principles, including Business Principles 
@@ -80,7 +81,7 @@
 - Create Architecture Vision (Baseline/Target Business, Data, Applications, Technology Architecture, Version 0.1
 - Develop Statement of Architecture Work and Secure Approval 
 
-## Activities in Architecture Phases B-C-D
+## Activities in Phase B-C-D (Business/Data/Application/Technology Architectures)
 - Select reference models, viewpoints, and tools
 - Develop Baseline Architecture Description
 - Develop Target Architecture Description
@@ -91,3 +92,11 @@
 - Finalize the Architecture
 - Create the Architecture Definition Document
 
+## Enterprise Continuum
+- The Enterprise Continuum is as a view of the repository of all the architecture assets. 
+- It can contain architecture descriptions, models, building blocks, patterns, viewpoints, and other artifacts 
+- It contains the architectures that exist both within the enterprise and in the IT industry at large
+- The Enterprise Continuum enables the organization of re-usable architecture artifacts and solution assets to maximize the enterprise architecture investment opportunities
+- 
+
+<p align="center"><img src="images/enterprise-continuum.png" width="700"></p>
