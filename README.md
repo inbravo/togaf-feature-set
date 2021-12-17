@@ -97,6 +97,22 @@
 - It can contain architecture descriptions, models, building blocks, patterns, viewpoints, and other artifacts 
 - It contains the architectures that exist both within the enterprise and in the IT industry at large
 - The Enterprise Continuum enables the organization of re-usable architecture artifacts and solution assets to maximize the enterprise architecture investment opportunities
-- 
 
 <p align="center"><img src="images/enterprise-continuum.png" width="700"></p>
+
+### Architecture Continuum
+- The Architecture Continuum illustrates how architectures are developed and evolved across a continuum ranging from Foundation Architectures
+
+<p align="center"><img src="images/arch-continuum.png" width="700"></p>
+
+### Foundation Architecture: Technical Reference Model
+- The TOGAF Foundation Architecture is an architecture of generic services and functions that provides a foundation on which more specific architectures and architectural components can be built 
+- This Foundation Architecture is embodied within the Technical Reference Model (TRM), which provides a model and taxonomy of generic platform services
+
+<p align="center"><img src="images/trm.png" width="700"></p>
+
+### Solutions Continuum
+- The Solutions Continuum is a population of the architecture with reference building blocks
+- The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
+
+<p align="center"><img src="images/solution-continuum.png" width="700"></p>
