@@ -116,3 +116,15 @@
 - The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
 <p align="center"><img src="images/solution-continuum.png" width="700"></p>
+
+## Architecture Repository
+- The Architecture Repository provides the capability to link architectural assets to components of the Detailed Design, Deployment, and Service Management Repositories
+- At a high level, six classes of architectural information are expected to be held within an Architecture Repository:
+	- The **Architecture Metamodel** describes the organizationally tailored application of an architecture framework, including a method for architecture development and a metamodel for architecture content
+    - The **Architecture Capability** defines the parameters, structures, and processes that support governance of the Architecture Repository
+    - The **Architecture Landscape** presents an architectural representation of assets in use, or planned, by the enterprise at particular points in time
+    - The **Standards Information Base** captures the standards with which new architectures must comply, which may include industry standards, selected products and services from suppliers, or shared services already deployed within the organization
+    - The **Reference Library** provides guidelines, templates, patterns, and other forms of reference material that can be leveraged in order to accelerate the creation of new architectures for the enterprise
+    - The **Governance Log** provides a record of governance activity across the enterprise
+
+<p align="center"><img src="images/arch-repo.png" width="700"></p>
