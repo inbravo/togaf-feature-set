@@ -53,6 +53,15 @@
 - **Application architecture**: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
 - **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
 
+## TOGAF Components
+- PART I: **Architecture Development Method** (ADM) is the core of the TOGAF framework. A step-by-step approach to developing an Enterprise Architecture
+- PART II: **ADM Guidelines & Techniques** contains a collection of guidelines and techniques available for use in applying the TOGAF approach and the TOGAF ADM
+- PART II: **Architecture Content Framework** describes the TOGAF content framework, including a structured metamodel for architectural artifacts, the use of re-usable Architecture Building Blocks (ABBs)
+- PART IV: **Enterprise Continuum & Tools** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity within an enterprise
+- PART V: **Architecture Capability Framework** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
+
+<p align="center"><img src="images/component-relationship.png" width="700"></p>
+
 ## TOGAF Architecture Development Method (ADM)
 - TOGAF is an iterative method including multiple phases to develop various architectures
 - The TOGAF ADM provides a tested and repeatable process, which aligns Business & IT
