@@ -129,11 +129,13 @@
 ## Architecture Repository
 - The Architecture Repository provides the capability to link architectural assets to components of the Detailed Design, Deployment, and Service Management Repositories
 - At a high level, six classes of architectural information are expected to be held within an Architecture Repository:
-	- The **Architecture Metamodel** describes the organizationally tailored application of an architecture framework, including a method for architecture development and a metamodel for architecture content
-    - The **Architecture Capability** defines the parameters, structures, and processes that support governance of the Architecture Repository
-    - The **Architecture Landscape** presents an architectural representation of assets in use, or planned, by the enterprise at particular points in time
-    - The **Standards Information Base** captures the standards with which new architectures must comply, which may include industry standards, selected products and services from suppliers, or shared services already deployed within the organization
-    - The **Reference Library** provides guidelines, templates, patterns, and other forms of reference material that can be leveraged in order to accelerate the creation of new architectures for the enterprise
-    - The **Governance Log** provides a record of governance activity across the enterprise
+	- The **Architecture Metamodel** describes the architecture framework in use within the enterprise
+    - The **Architecture Capability** describes the organization, roles, skills and responsibilities of the enterprise architecture practice
+    - The **Architecture Landscape** shows the state of the operating enterprise at particular points in time
+	- The **Architecture Requirement Repository** provides a view of all architecture requirements, as agreed by Arch Board
+	- The **Solution Landscape** describes the SBB supporting the Architecture landscape
+    - The **Standards Information Base** defines the compliance criteria for the work governed by the architecture
+    - The **Reference Library** contains reusable architecture workd products
+    - The **Governance Log** captures results of governance activity across the enterprise
 
 <p align="center"><img src="images/arch-repo.png" width="700"></p>
