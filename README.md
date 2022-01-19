@@ -28,13 +28,13 @@ A discipline -
    - Systematic ***Codified Common Sense***
    - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
 
-## TOGAF Standard as a framework for Enterprise Architecture?
-- The TOGAF standard provides a best practice framework for adding value, and enables the organization to build workable and economic solutions which address their business issues and needs
-
-## TOGAF 9.2 Standard
+## TOGAF Standard
 - A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
 - A ***Framework*** not ***Architecture*** to develop architectures to meet different business needs
-- ***Architecture Development Method (ADM)*** is a step-by-step approach to develop an ***Enterprise Architecture***
+- TOGAF as Enterprise Architecture (EA) framework
+  - TOGAF provides the ***methods and tools*** for assisting in the ***Acceptance***, ***Production***, ***Use***, and ***Maintenance*** (***APUM***) of an EA. 
+  - It is based on an ***Iterative Process Model*** supported by best practices and a re-usable set of existing architecture assets.
+- TOGAF uses ***Architecture Development Method (ADM)*** to develop an ***Enterprise Architecture (EA)***
 - TOGAF Standard helps in creating following Architecture types (BDAT)
    - ***Business Architecture (B)***: defines the business strategy, governance, organization, and key business processes
    - ***Data Architecture (D)***: describes the structure of an organization's logical and physical data assets and data management resources
@@ -42,7 +42,7 @@ A discipline -
    - ***Technical Architecture (T)***: describes the logical software & hardware capabilities, required to support the deployment of business, data, and application services
 
 ## TOGAF Components
-- ***Architecture Development Method (ADM)*** is the core of the TOGAF framework
+- ***Architecture Development Method (ADM)*** is a step by step approach, which is at the core of the TOGAF framework
 - ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
 - ***Architecture Content Framework*** describes a structured metamodel for architectural artifacts, using re-usable Architecture Building Blocks (ABBs)
 - ***Enterprise Continuum & Tools*** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity
