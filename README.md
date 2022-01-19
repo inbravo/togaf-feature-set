@@ -1,26 +1,18 @@
 # TOGAF 101 
 
-## The open group vision
-- Boundaryless Information Flow
-- Boundaries exists but permeable to enable business
+## About Open Group 
 
-## The open group mission
-- Creation of Boundaryless Information Flow achieved by working with customers and suppliers
+| Vision      | Mission |  
+| ----------- | ----------- | 
+| Vision  | Boundaryless Information Flow, Boundaries exists but permeable to enable business | 
+| Mission | Creation of Boundaryless Information Flow achieved by working with customers and suppliers |
+| Architecture Forum Mission | Advance the Open Group vision of Boundaryless Information Flow, for and between enterprises |
 
-## The open group architecture forum mission
-- Advance the Open Group vision of Boundaryless Information Flow, for and between enterprises
+## About Enterprise Architecture (EA)
+| Purpose  | Benefits  |  
+| ----------- | ----------- | 
+| To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
 
-## What is an Enterprise
-- The TOGAF standard considers an "enterprise" to be any collection of organizations that have common goals
-
-## Purpose of Enterprise Architecture
-- To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy
-
-## Benefits of an Enterprise Architecture
-- More effective and efficient business operations
-- More effective and efficient Digital Transformation and IT operations
-- Better return on existing investment, reduced risk for future investment
-- Faster, simpler, and cheaper procurement
 
 ## What would prompt the development of an Enterprise Architecture?
 - Preparation for business transformation needs
