@@ -1,100 +1,72 @@
 # TOGAF 101 
 
-## About Open Group 
+## **The Open Group** 
 
-| Vision      | Mission |  
+|      |      |  
 | ----------- | ----------- | 
-| Vision  | Boundaryless Information Flow, Boundaries exists but permeable to enable business | 
-| Mission | Creation of Boundaryless Information Flow achieved by working with customers and suppliers |
-| Architecture Forum Mission | Advance the Open Group vision of Boundaryless Information Flow, for and between enterprises |
+| Vision  | ***Boundaryless Information Flow*** Boundaries exists but permeable to enable business | 
+| Mission | Creation of ***Boundaryless Information Flow*** achieved by working with customers and suppliers |
+| Architecture Forum Mission | Advance the Open Group vision of ***Boundaryless Information Flow*** for and between enterprises |
 
-## About Enterprise Architecture (EA)
-Enterprise architecture (EA) - 
-- Defines, organises, standardizes, and documents the whole architecture and all important elements of the respective organisation, covering relevant domains such as business, digital, physical, or organisational; and 
+## Enterprise Architecture (EA)
+A discipline - 
+- That defines, organises, standardizes, and documents the whole architecture and all important elements of the respective organisation, covering relevant domains such as business, digital, physical, or organisational; and 
 - The relations and interactions between elements that belong to those domains, such as processes, functions, applications, events, data, or technologies
 
-| Purpose  | Benefits  |  
+|      |      |  
 | ----------- | ----------- | 
-| To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
+| Need | Preparation for business transformation or any radical infrastructure change initiates |
+| Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
+| Benefits | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
 
-## What would prompt the development of an Enterprise Architecture?
-- Preparation for business transformation needs
-- Any radical infrastructure changes initiates
+## Architecture Framework
+- An foundational structure, or set of structures, which can be used for developing different architectures 
+- Should describe a method for designing a target state of the enterprise in terms of a set of building blocks
+- Should contain a set of tools and provide a common vocabulary 
+- Should also include a list of recommended standards and compliant products that can be used to implement the building blocks
+- Value of Architecture Framework
+   - Systematic ***Codified Common Sense***
+   - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
 
-## What is an architecture framework?
-- An architecture framework is a foundational structure, or set of structures, which can be used for developing different architectures 
-- It should describe a method for designing a target state of the enterprise in terms of a set of building blocks
-- It should contain a set of tools and provide a common vocabulary 
-- It should also include a list of recommended standards and compliant products that can be used to implement the building blocks
-
-## The Value of an architecture framework
-- Avoids the initial panic when the scale of the task becomes apparent and provides a practical starting point for an architecture project
-- Systematic **'Codified Common Sense'**
-
-## Why use the TOGAF standard as a framework for Enterprise Architecture?
+## TOGAF Standard as a framework for Enterprise Architecture?
 - The TOGAF standard provides a best practice framework for adding value, and enables the organization to build workable and economic solutions which address their business issues and needs
 
-## TOGAF origins
-- A customer initiative
-- Originally based on TAFIM (US DoD)
-- A **Framework** not **Architecture** to develop architectures to meet different business needs
-
-<p align="center"><img src="images/togaf-components.png" width="700"></p>
-<p align="center"><a href="https://dev-clone.nuxtjs.app/chanduthedev/457368">Image credit</a></p>
-
-## What Kind of Architecture does the TOGAF Standard Deal With? (BDAT)
-- **Business architecture**: defines the business strategy, governance, organization, and key business processes
-- **Data architecture**: describes the structure of an organization's logical and physical data assets and data management resources
-- **Application architecture**: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
-- **Technical architecture**: describes the logical software and hardware capabilities that are required to support the deployment of business, data, and application services
+## TOGAF 9.2 Standard
+- A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
+- A ***Framework*** not ***Architecture*** to develop architectures to meet different business needs
+- ***Architecture Development Method (ADM)*** is a step-by-step approach to develop an ***Enterprise Architecture***
+- TOGAF Standard helps in creating following Architecture types (BDAT)
+   - ***Business Architecture (B)***: defines the business strategy, governance, organization, and key business processes
+   - ***Data Architecture (D)***: describes the structure of an organization's logical and physical data assets and data management resources
+   - ***Application Architecture (A)***: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
+   - ***Technical Architecture (T)***: describes the logical software & hardware capabilities, required to support the deployment of business, data, and application services
 
 ## TOGAF Components
-- PART I: **Architecture Development Method** (ADM) is the core of the TOGAF framework. A step-by-step approach to developing an Enterprise Architecture
-- PART II: **ADM Guidelines & Techniques** contains a collection of guidelines and techniques available for use in applying the TOGAF approach and the TOGAF ADM
-- PART II: **Architecture Content Framework** describes the TOGAF content framework, including a structured metamodel for architectural artifacts, the use of re-usable Architecture Building Blocks (ABBs)
-- PART IV: **Enterprise Continuum & Tools** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity within an enterprise
-- PART V: **Architecture Capability Framework** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
+- ***Architecture Development Method (ADM)*** is the core of the TOGAF framework
+- ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
+- ***Architecture Content Framework*** describes a structured metamodel for architectural artifacts, using re-usable Architecture Building Blocks (ABBs)
+- ***Enterprise Continuum & Tools*** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity
+- ***Architecture Capability Framework*** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
 
-<p align="center"><img src="images/component-relationship.png" width="700"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/01_structure.png" width="700"></p>
 
 ## TOGAF Architecture Development Method (ADM)
-- TOGAF is an iterative method including multiple phases to develop various architectures
-- The TOGAF ADM provides a tested and repeatable process, which aligns Business & IT
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
-- The ADM is also useful to populate the **Foundation Architecture** of an enterprise 
-- Business requirements of an enterprise may be used to identify the necessary definitions and selections in the **Foundation Architecture**
+- TOGAF includes multiple phases to develop various architectures using following iterations
+  - ***Architecture Capability (AC) Iteration*** 
+  - ***Architecture Development (AD) Iteration*** 
+  - ***Transition Planning (TP) Iteration*** 
+  - ***Architecture Governance (AG) Iteration*** 
 
-<p align="center"><img src="images/adm-details.png" width="700"></p>
-<p align="center"><a href="https://dev.to/chanduthedev/togaf-9-2-components-1flb">Image credit</a></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_adm_iteration.png" width="400"></p>
 
-## Architecture Phases A-B-C-D
-| Phase | Deliverable | Content | Version | 
-| ----------- | ----------- | ----------- | ----------- |
-| A: Architecture Vision | Architecture Vision | Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
-| B: Business Architecture | Architecture Definition Document | Business Architecture | 1.0
-| C: Information System Architecture | Architecture Definition Document | Data Architecture, Application Architecture | 1.0
-| D: Technology System Architecture | Architecture Definition Document | Technology Architecture | 1.0
-
-## Activities Phase A (Architecture Vision)
-- Establish the Project 
-- Identify Business Goals and Business Drivers 
-- Review Architecture Principles, including Business Principles 
-- Define Scope 
-- Define Constraints 
-- Identify Stakeholders and Concerns, Business Requirements
-- Create Architecture Vision (Baseline/Target Business, Data, Applications, Technology Architecture, Version 0.1
-- Develop Statement of Architecture Work and Secure Approval 
-
-## Activities in Phase B-C-D (Business/Data/Application/Technology Architectures)
-- Select reference models, viewpoints, and tools
-- Develop Baseline Architecture Description
-- Develop Target Architecture Description
-- Perform gap analysis
-- Define candidate roadmap components
-- Resolve impacts across the Architecture Landscape
-- Conduct formal stakeholder review
-- Finalize the Architecture
-- Create the Architecture Definition Document
+## Architecture Phases (A, B, C, D)
+| Phase | Name | Deliverable | Content | Version | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| A | Architecture Vision | Architecture Vision | Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
+| B | Business Architecture | Architecture Definition Document | Business Architecture | 1.0
+| C | Information System Architecture | Architecture Definition Document | Data Architecture, Application Architecture | 1.0
+| D | Technology Architecture | Architecture Definition Document | Technology Architecture | 1.0
 
 ## Enterprise Continuum
 - The Enterprise Continuum is as a view of the repository of all the architecture assets. 
