@@ -9,10 +9,13 @@
 | Architecture Forum Mission | Advance the Open Group vision of Boundaryless Information Flow, for and between enterprises |
 
 ## About Enterprise Architecture (EA)
+Enterprise architecture (EA) - 
+- Defines, organises, standardizes, and documents the whole architecture and all important elements of the respective organisation, covering relevant domains such as business, digital, physical, or organisational; and 
+- The relations and interactions between elements that belong to those domains, such as processes, functions, applications, events, data, or technologies
+
 | Purpose  | Benefits  |  
 | ----------- | ----------- | 
 | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
-
 
 ## What would prompt the development of an Enterprise Architecture?
 - Preparation for business transformation needs
