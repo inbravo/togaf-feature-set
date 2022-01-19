@@ -35,7 +35,7 @@ A discipline -
   - TOGAF provides the ***methods and tools*** for assisting in the ***Acceptance***, ***Production***, ***Use***, and ***Maintenance*** (***APUM***) of an EA. 
   - It is based on an ***Iterative Process Model*** supported by best practices and a re-usable set of existing architecture assets.
 - TOGAF uses ***Architecture Development Method (ADM)*** to develop an ***Enterprise Architecture (EA)***
-- TOGAF Standard helps in creating following Architecture types (BDAT)
+- TOGAF Standard helps in creating following Architecture types (BDAT) using ADM
    - ***Business Architecture (B)***: defines the business strategy, governance, organization, and key business processes
    - ***Data Architecture (D)***: describes the structure of an organization's logical and physical data assets and data management resources
    - ***Application Architecture (A)***: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
@@ -68,18 +68,46 @@ A discipline -
 | C | Information System Architecture | Architecture Definition Document | Data Architecture, Application Architecture | 1.0
 | D | Technology Architecture | Architecture Definition Document | Technology Architecture | 1.0
 
+## TOGAF Architecture Content Framework (ACF)
+- Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
+  - Process flows
+  - Architectural requirements
+  - Project plans 
+  - Project compliance assessments etc. 
+- ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***.
+- ACF uses the following three categories (***DAB***) to describe the type of architectural work product within the context of use:
+  - ***Deliverables (D)***
+  - ***Artifacts (A)***
+  - ***Building Blocks (B)***
+    - ***Architecture Building Blocks (ABBs)***
+    - ***Solution Building Blocks (SBBs)***   
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts1.png" width="700"></p>
+
+### Architecture Definition Document (ADD)
+- ADD is a deliverable that documents an Architecture Description
+- An example of the relationships between deliverables, artifacts, and building blocks is illustrated
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts2.png" width="700"></p>
+
 ## Enterprise Continuum
 - The Enterprise Continuum is as a view of the repository of all the architecture assets. 
 - It can contain architecture descriptions, models, building blocks, patterns, viewpoints, and other artifacts 
 - It contains the architectures that exist both within the enterprise and in the IT industry at large
 - The Enterprise Continuum enables the organization of re-usable architecture artifacts and solution assets to maximize the enterprise architecture investment opportunities
 
-<p align="center"><img src="images/enterprise-continuum.png" width="700"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_entcon_oview.png" width="700"></p>
 
 ### Architecture Continuum
 - The Architecture Continuum illustrates how architectures are developed and evolved across a continuum ranging from Foundation Architectures
 
-<p align="center"><img src="images/arch-continuum.png" width="700"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_archcon.png" width="700"></p>
+
+### Solutions Continuum
+- The Solutions Continuum is a population of the architecture with reference building blocks
+- The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_solcon.png" width="700"></p>
 
 ### Foundation Architecture: Technical Reference Model
 - The TOGAF Foundation Architecture is an architecture of generic services and functions that provides a foundation on which more specific architectures and architectural components can be built 
@@ -87,11 +115,7 @@ A discipline -
 
 <p align="center"><img src="images/trm.png" width="700"></p>
 
-### Solutions Continuum
-- The Solutions Continuum is a population of the architecture with reference building blocks
-- The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
-<p align="center"><img src="images/solution-continuum.png" width="700"></p>
 
 ## Architecture Repository
 - The Architecture Repository provides the capability to link architectural assets to components of the Detailed Design, Deployment, and Service Management Repositories
