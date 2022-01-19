@@ -115,8 +115,6 @@ A discipline -
 
 <p align="center"><img src="images/trm.png" width="700"></p>
 
-
-
 ## Architecture Repository
 - The Architecture Repository provides the capability to link architectural assets to components of the Detailed Design, Deployment, and Service Management Repositories
 - At a high level, six classes of architectural information are expected to be held within an Architecture Repository:
