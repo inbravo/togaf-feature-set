@@ -108,23 +108,3 @@ A discipline -
 - The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_solcon.png" width="700"></p>
-
-### Foundation Architecture: Technical Reference Model
-- The TOGAF Foundation Architecture is an architecture of generic services and functions that provides a foundation on which more specific architectures and architectural components can be built 
-- This Foundation Architecture is embodied within the Technical Reference Model (TRM), which provides a model and taxonomy of generic platform services
-
-<p align="center"><img src="images/trm.png" width="700"></p>
-
-## Architecture Repository
-- The Architecture Repository provides the capability to link architectural assets to components of the Detailed Design, Deployment, and Service Management Repositories
-- At a high level, six classes of architectural information are expected to be held within an Architecture Repository:
-	- The **Architecture Metamodel** describes the architecture framework in use within the enterprise
-    - The **Architecture Capability** describes the organization, roles, skills and responsibilities of the enterprise architecture practice
-    - The **Architecture Landscape** shows the state of the operating enterprise at particular points in time
-	- The **Architecture Requirement Repository** provides a view of all architecture requirements, as agreed by Arch Board
-	- The **Solution Landscape** describes the SBB supporting the Architecture landscape
-    - The **Standards Information Base** defines the compliance criteria for the work governed by the architecture
-    - The **Reference Library** contains reusable architecture workd products
-    - The **Governance Log** captures results of governance activity across the enterprise
-
-<p align="center"><img src="images/arch-repo.png" width="700"></p>
