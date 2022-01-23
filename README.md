@@ -1,4 +1,4 @@
-$# 	Objective of this repo is to create central place for 
+## 	Objective of this repo is to create central place for 
 -	TOGAF certification resources
 -	TOGAF Enterprise Architecture definition process resources
 
