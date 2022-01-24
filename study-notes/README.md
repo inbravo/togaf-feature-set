@@ -108,5 +108,3 @@ A discipline -
 - The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_solcon.png" width="700"></p>
-
-https://blog.firebrand.training/2014/09/top-10-togaf-resources-you-dont-need-to-pay-for.html
