@@ -17,7 +17,7 @@ A discipline -
 | ----------- | ----------- | 
 | Need | Preparation for business transformation or any radical infrastructure change initiates |
 | Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
-| Benefits | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
+| Benefits | More effective and efficient **_Business operations_**, Digital Transformation and **_IT operations_**, Better return on  **_Existing Investment_**, Reduced Risk for  **_Future Investment_**, Faster, simpler, and cheaper **_Procurement_** |
 
 ## Architecture Framework
 - A foundational structure, or set of structures, which can be used for developing different architectures 
