@@ -29,10 +29,10 @@ A discipline -
    - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
  
  ## Architecture
- - ISO/IEC/IEEE 42010:2011 defines "architecture" as:
-   - "The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution."
-- TOGAF standard defines a second meaning depending upon the context:
-   - "The structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time."
+ - ISO/IEC/IEEE 42010:2011 definition: 
+   - _**The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution**._
+- TOGAF definition: 
+   - _**The structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time**._
 
 ## TOGAF Standard
 - A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
