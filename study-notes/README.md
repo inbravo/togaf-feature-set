@@ -66,14 +66,7 @@ A discipline -
   - ***Architecture Governance (AG) Iteration*** 
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_adm_iteration.png" width="400"></p>
-
-## Architecture Phases (A, B, C, D)
-| Phase | Name | Deliverable | Content | Version | 
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| A | Architecture Vision | Architecture Vision | Business Architecture, Data Architecture, Application Architecture, Technology Architecture | 0.1
-| B | Business Architecture | Architecture Definition Document | Business Architecture | 1.0
-| C | Information System Architecture | Architecture Definition Document | Data Architecture, Application Architecture | 1.0
-| D | Technology Architecture | Architecture Definition Document | Technology Architecture | 1.0
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input-output.png" width="2000"></p>
 
 ## TOGAF Architecture Content Framework (ACF)
 - Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
