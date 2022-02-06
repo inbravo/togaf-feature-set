@@ -17,7 +17,7 @@ A discipline -
 | ----------- | ----------- | 
 | Need | Preparation for business transformation or any radical infrastructure change initiates |
 | Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
-| Benefits | More effective and efficient business operations, Digital Transformation and IT operations, Better return on existing investment, Reduced Risk for future investment, Faster, simpler, and cheaper procurement |
+| Benefits | More effective and efficient **_Business operations_**, Digital Transformation and **_IT operations_**, Better return on  **_Existing Investment_**, Reduced Risk for  **_Future Investment_**, Faster, simpler, and cheaper **_Procurement_** |
 
 ## Architecture Framework
 - A foundational structure, or set of structures, which can be used for developing different architectures 
@@ -27,6 +27,12 @@ A discipline -
 - Value of Architecture Framework
    - Systematic ***Codified Common Sense***
    - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
+ 
+ ## Architecture
+ - ISO/IEC/IEEE 42010:2011 definition: 
+   - _**The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution**._
+- TOGAF definition: 
+   - _**The structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time**._
 
 ## TOGAF Standard
 - A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
@@ -41,12 +47,13 @@ A discipline -
    - ***Application Architecture (A)***: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
    - ***Technical Architecture (T)***: describes the logical software & hardware capabilities, required to support the deployment of business, data, and application services
 
-## TOGAF Components
-- ***Architecture Development Method (ADM)*** is a step by step approach, which is at the core of the TOGAF framework
-- ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
-- ***Architecture Content Framework*** describes a structured metamodel for architectural artifacts, using re-usable Architecture Building Blocks (ABBs)
-- ***Enterprise Continuum & Tools*** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity
-- ***Architecture Capability Framework*** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
+## TOGAF Parts
+1. ***Introduction*** is a step by step approach, which is at the core of the TOGAF framework
+2. ***Architecture Development Method (ADM)*** is a step by step approach, which is at the core of the TOGAF framework
+3. ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
+4. ***Architecture Content Framework*** describes a structured metamodel for architectural artifacts, using re-usable Architecture Building Blocks (ABBs)
+5. ***Enterprise Continuum & Tools*** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity
+6. ***Architecture Capability Framework*** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/01_structure.png" width="700"></p>
 
