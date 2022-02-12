@@ -87,6 +87,7 @@ A discipline -
 | Implications | Should highlight the requirements, both for the business and IT, for carrying out the principle |
    
 ## Architecture Capability
+- It is an evaludation of your ability to define Enterprise Architecture
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
 
 ## Architecture Capability Framework
