@@ -76,6 +76,14 @@ A discipline -
 
 ## Architecture Capability Framework
 - Provides a set of reference materials for how to establish such an architecture function
+- The structure of Architecture Capability Framework includes
+   - Architecture Board
+   - Architecture Compliance
+   - Architecture Contracts
+   - Architecture Governance
+   - Architecture Maturity Models
+   - Architecture Skills Framework
+
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
 
 ## Architecture Governance
