@@ -71,7 +71,7 @@ A discipline -
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-output.png" width="2000"></p>
 
-## Architecture Princples
+## Principles
 - Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission
 - Depending on the organization, principles may be established within different domains and at different levels
    - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
