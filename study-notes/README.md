@@ -89,6 +89,7 @@ A discipline -
 ## Architecture Capability
 - It is an evaludation of your ability to define Enterprise Architecture
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
+- Ability to estabilish the **Architecture Contract** is also the part of the Architecture Capability
 
 ## Architecture Capability Framework
 - Provides a set of reference materials for how to establish such an architecture function
