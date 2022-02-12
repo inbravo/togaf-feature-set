@@ -71,6 +71,20 @@ A discipline -
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-output.png" width="2000"></p>
 
+## Architecture Princples
+- Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission
+- Depending on the organization, principles may be established within different domains and at different levels
+   - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
+   - ***Architecture Principles*** are a set of principles that relate to architecture work 
+   - Recommended template for Principles
+  
+|      |      |  
+| ----------- | ----------- | 
+| Name | Should both represent the essence of the rule as well as be easy to remember |
+| Statement | Should succinctly and unambiguously communicate the fundamental rule |
+| Rationale | Should highlight the business benefits of adhering to the principle, using business terminology |
+| Implications | Should highlight the requirements, both for the business and IT, for carrying out the principle |
+   
 ## Architecture Capability
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
 
@@ -126,7 +140,7 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts2.png" width="700"></p>
 
 ## Enterprise Continuum
-- The Enterprise Continuum is as a view of the repository of all the architecture assets. 
+- The Enterprise Continuum is a view of the repository of all the architecture assets. 
 - It can contain architecture descriptions, models, building blocks, patterns, viewpoints, and other artifacts 
 - It contains the architectures that exist both within the enterprise and in the IT industry at large
 - The Enterprise Continuum enables the organization of re-usable architecture artifacts and solution assets to maximize the enterprise architecture investment opportunities
