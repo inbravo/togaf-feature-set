@@ -76,6 +76,7 @@ A discipline -
 - Depending on the organization, principles may be established within different domains and at different levels
    - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
    - ***Architecture Principles*** are a set of principles that relate to architecture work 
+   - Five qualities of a good Principle: ***Understandable, Robust, Complete, Consistent, Stable***
    - Recommended template for Principles
   
 |      |      |  
