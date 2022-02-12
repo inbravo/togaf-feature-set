@@ -71,12 +71,19 @@ A discipline -
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-output.png" width="2000"></p>
 
+## Architecture Capability
+- In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
+
+## Architecture Capability Framework
+- Provides a set of reference materials for how to establish such an architecture function
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
+
 ## Architecture Governance
 - The practice and orientation by which Enterprise Architectures and other architectures are managed and controlled at an enterprise-wide level
    - Corporate Governance
-   - Technology Governance (how an organization utilizes technology in the research, development, and production of its goods and services)
+   - Technology Governance (how an organization utilizes technology in its services)
    - IT Governance (TOGAF suggests COBIT framework - Control OBjectives for Information and related Technology)
-   - Architecture Governance (the practice and orientation by which Enterprise Architectures and other architectures are managed and controlled)
+   - Architecture Governance (how architectures are managed and controlled within enterprise)
 
 ## Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures
