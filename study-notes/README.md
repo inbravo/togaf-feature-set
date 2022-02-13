@@ -126,8 +126,6 @@ A discipline -
    - ***Time Period***: what is the time period that needs to be articulated for the Architecture Vision
    - ***Architecture Domains***: a complete EA description should contain all four domains (business, data, application, technology)
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/40_partitioning5.png" width="700"></p>
-
 ## TOGAF Architecture Content Framework (ACF)
 - Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
   - Process flows
