@@ -76,7 +76,7 @@ A discipline -
 - Depending on the organization, principles may be established within different domains and at different levels
    - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
    - ***Architecture Principles*** are a set of principles that relate to architecture work 
-   - Five qualities of a good Principle: ***Understandable, Robust, Complete, Consistent, Stable***
+   - Five qualities of a good Principle: *** URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)***
    - Recommended template for Principles
   
 |      |      |  
@@ -119,12 +119,12 @@ A discipline -
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_org.png" width="700"></p>
 
-## Scoping the Architecture
-- Four dimensions are typically used in order to define and limit the scope of an architecture
-   - ***Breadth***: what is the full extent of the enterprise?   
-   - ***Depth***: to what level of detail should the architecting effort go?
-   - ***Time Period***: what is the time period that needs to be articulated for the Architecture Vision
-   - ***Architecture Domains***: a complete EA description should contain all four domains (business, data, application, technology)
+## Scoping the Architecture 
+- Four dimensions (BDAT) are typically used in order to define and limit the scope of an architecture
+   - ***Breadth (B)***: what is the full extent of the enterprise?   
+   - ***Depth (D)***: to what level of detail should the architecting effort go?
+   - ***Architecture Domains (A)***: a complete EA description should contain all four domains (business, data, application, technology)
+   - ***Time Period (T)***: what is the time period that needs to be articulated for the Architecture Vision
 
 ## TOGAF Architecture Content Framework (ACF)
 - Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
