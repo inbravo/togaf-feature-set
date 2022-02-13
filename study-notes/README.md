@@ -119,6 +119,14 @@ A discipline -
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_org.png" width="700"></p>
 
+## Scoping the Architecture
+- Four dimensions are typically used in order to define and limit the scope of an architecture
+   - Breadth: what is the full extent of the enterprise?   
+   - Depth: to what level of detail should the architecting effort go?
+   - Time Period: what is the time period that needs to be articulated for the Architecture Vision
+   - Architecture Domains: a complete Enterprise Architecture description should contain all four domains (business, data, application, technology)
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/40_partitioning5.png" width="700"></p>
 
 ## TOGAF Architecture Content Framework (ACF)
 - Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
