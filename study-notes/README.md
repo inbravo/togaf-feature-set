@@ -70,7 +70,7 @@ A discipline -
 ## TOGAF ADM Stages Objectives
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-objective.png" width="2000"></p>
 
-## TOGAF ADM Stages Steps [Mind Maps](adm-stages-steps.md)
+## TOGAF ADM Stages Steps ([Mind Maps](adm-stages-steps.md))
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-steps.png" width="2000"></p>
 
 ## TOGAF ADM Stages Input and Output
