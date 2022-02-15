@@ -72,31 +72,31 @@ A discipline -
 ## TOGAF ADM Stages Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-steps.png" width="2000"></p>
 
-### TOGAF ADM Preliminary Steps
+### Preliminary Stage Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-preliminary.png" width="700"></p>
 
-### TOGAF ADM Vision Stage Steps
+### Vision Stage (A) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-vision.png" width="700"></p>
 
-### TOGAF ADM Business Architecture Stage Steps
+### Business Architecture Stage (B) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-business-arch.png" width="700"></p>
 
-### TOGAF ADM Data and Application Architecture Stage Steps
+### Data and Application Architecture Stage (C) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-data-and-app-arch.png" width="700"></p>
 
-### TOGAF Technology Architecture Stage Steps
+### Technology Architecture Stage (D) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-tech-arch.png" width="700"></p>
 
-### TOGAF Opportunities and Solutions Stage Steps
+### Opportunities and Solutions Stage (E) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-opportunity-and-soln.png" width="700"></p>
 
-### TOGAF Migration Planning Stage Steps
+### Migration Planning Stage (F) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-migration-planning.png" width="700"></p>
 
-### TOGAF Implementation Governance Stage Steps
+### Implementation Governance Stage (G) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-implmn-governce.png" width="700"></p>
 
-### TOGAF Change Management Stage Steps
+### Change Management Stage (H) Steps
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-change-mgmt.png" width="700"></p>
 
 ## TOGAF ADM Stages Input and Output
