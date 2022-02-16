@@ -196,17 +196,11 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
 
 ## Key Definitions
-- The ***Environment*** of a system is the context determining the setting and circumstances of all influences upon a system
-- A ***System*** is a combination of interacting elements organized to achieve one or more stated purposes
-- The ***Architecture*** of a system is the fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution
 - An ***Architecture Description*** is a work product used to express an architecture; a collection of architecture views and models that together document the architecture
 - ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
 - ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
-- An ***Architecture view*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system
-- An ***Architecture Model*** is a representation of a subject of interest. A model provides a smaller scale, simplified, and/or abstract representation of the subject matter
-- An ***Architecture Viewpoint*** is a specification of the conventions for a particular kind of architecture view. It can also be called the definition or schema for that kind of architecture view. It establishes the conventions for constructing, interpreting, and using an architecture view to address a specific concern (or set of concerns) about a system-of-interest. 
-   - An architecture view is what you see; an architecture viewpoint is where you are looking from that determines what you see
-   - Architecture viewpoints are generic, and can be stored in libraries for re-use; an architecture view is always specific to the architecture
-   - Every architecture view has an associated architecture viewpoint that describes it, at least implicitly  
-- A ***Model Kind*** establishes conventions for a type of modeling. An architecture viewpoint references one or more model kinds; an architecture view incorporates one or more models
-- A ***Viewpoint library*** is a collection of the specifications of architecture viewpoints contained in the Reference Library portion of the Architecture Repository
+- An ***Architecture View*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system
+- An ***Architecture Viewpoint*** is a specification of the conventions for a particular kind of architecture view. It establishes the conventions for constructing, interpreting, and using an architecture view to address a specific concern (or set of concerns) about a system-of-interest. 
+   - An ***Architecture View*** is what you see; an ***Architecture Viewpoint*** is where you are looking from that determines what you see
+   - ***Architecture Viewpoints*** are generic, and can be stored in libraries for re-use; an ***Architecture View*** is always specific to the architecture
+   - Every ***Architecture View*** has an associated ***Architecture Viewpoint*** that describes it, at least implicitly  
