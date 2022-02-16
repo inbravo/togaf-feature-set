@@ -117,11 +117,14 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
 
 ## Architecture Governance
-- The practice and orientation by which Enterprise Architectures and other architectures are managed and controlled at an enterprise-wide level
+- The practice and orientation by which Enterprise Architectures and other architectures are managed and controlled
+- Levels of Governance
    - Corporate Governance
    - Technology Governance (how an organization utilizes technology in its services)
    - IT Governance (TOGAF suggests COBIT framework - Control OBjectives for Information and related Technology)
    - Architecture Governance (how architectures are managed and controlled within enterprise)
+- Characteristics of Governance (***DTIARF***)
+   - Discipline (D), Transparency (T), Independence (I), Accountability (A), Responsibility (R), Fairness (F)
 
 ## Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures
