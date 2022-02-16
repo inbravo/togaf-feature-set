@@ -203,4 +203,7 @@ A discipline -
 - ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
 - ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
 - An ***Architecture view*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system
-- An ***Architecture Model*** is a representation of a subject of interest. A model provides a smaller scale, simplified, and/or abstract representation of the subject matter.
+- An ***Architecture Model*** is a representation of a subject of interest. A model provides a smaller scale, simplified, and/or abstract representation of the subject matter
+- An ***Architecture Viewpoint*** is a specification of the conventions for a particular kind of architecture view. It can also be called the definition or schema for that kind of architecture view. It establishes the conventions for constructing, interpreting, and using an architecture view to address a specific concern (or set of concerns) about a system-of-interest
+- A ***Model Kind*** establishes conventions for a type of modeling. An architecture viewpoint references one or more model kinds; an architecture view incorporates one or more models
+- A ***Viewpoint library*** is a collection of the specifications of architecture viewpoints contained in the Reference Library portion of the Architecture Repository
