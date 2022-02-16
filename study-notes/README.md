@@ -204,3 +204,11 @@ A discipline -
    - An ***Architecture View*** is what you see; an ***Architecture Viewpoint*** is where you are looking from that determines what you see
    - ***Architecture Viewpoints*** are generic, and can be stored in libraries for re-use; an ***Architecture View*** is always specific to the architecture
    - Every ***Architecture View*** has an associated ***Architecture Viewpoint*** that describes it, at least implicitly  
+   - ***Example***
+      - Consider two stakeholders in a new small computing system: the ***Users*** and the ***Developer***
+      - The ***Users*** have an ***Architecture Viewpoint*** that reflects their concerns when interacting with the system
+      - The ***Developers*** have a different ***Architecture Viewpoint*** that reflects their concerns when interacting with the system
+      - The ***User Architecture Viewpoint*** doesn't include any details such as applications or Database Management Systems (DBMS)
+      - The ***Developer Architecture Viewpoint*** doesn't include things such as actual live data and connections with consumers
+      - The ***Architecture Views*** that are developed to address either of the two ***Architecture Viewpoints*** are unlikely to exhaustively describe the whole system, because each perspective reduces how each sees the system
+      - However, there are things that are shared, such as descriptions of the processes that are enabled by the system and/or communications protocols set up for users to communicate problems directly to development
