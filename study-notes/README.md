@@ -199,7 +199,11 @@ A discipline -
 - An ***Architecture Description*** is a work product used to express an architecture; a collection of architecture views and models that together document the architecture
 - ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
 - ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
-- An ***Architecture View*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system
+- An ***Architecture View*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system.  TOGAF encourages these steps for ***Architecture View*** creation process
+   1. Refer to an existing library of architecture viewpoints
+   2. Select the appropriate architecture viewpoints (based on the stakeholders and concerns that need to be covered by views)
+   3. Generate views of the system by using the selected architecture viewpoints as templates
+
 - An ***Architecture Viewpoint*** is a specification of the conventions for a particular kind of architecture view. It establishes the conventions for constructing, interpreting, and using an architecture view to address a specific concern (or set of concerns) about a system-of-interest. 
    - An ***Architecture View*** is what you see; an ***Architecture Viewpoint*** is where you are looking from that determines what you see
    - ***Architecture Viewpoints*** are generic, and can be stored in libraries for re-use; an ***Architecture View*** is always specific to the architecture
