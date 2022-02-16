@@ -194,3 +194,13 @@ A discipline -
    -  ***Solutions Landscape*** presents an architectural representation of the Solution Building Blocks (SBBs)  
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
+
+## Key Definitions
+- The ***Environment*** of a system is the context determining the setting and circumstances of all influences upon a system
+- A ***System*** is a combination of interacting elements organized to achieve one or more stated purposes
+- The ***Architecture*** of a system is the fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution
+- An ***Architecture Description*** is a work product used to express an architecture; a collection of architecture views and models that together document the architecture
+- ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
+- ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
+- An ***Architecture view*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system
+- An ***Architecture Model*** is a representation of a subject of interest. A model provides a smaller scale, simplified, and/or abstract representation of the subject matter.
