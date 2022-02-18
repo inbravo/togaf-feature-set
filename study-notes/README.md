@@ -84,7 +84,10 @@ A discipline -
 - Target First Architecture Definition
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_target.png" width="700"></p>
 
-## Principles
+## ADM Guidelines and Techniquies
+- Guidelines for Adapting the ADM Process
+
+### Principles
 - Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission
 - Depending on the organization, principles may be established within different domains and at different levels
    - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
@@ -98,6 +101,17 @@ A discipline -
 | Statement | Should succinctly and unambiguously communicate the fundamental rule |
 | Rationale | Should highlight the business benefits of adhering to the principle, using business terminology |
 | Implications | Should highlight the requirements, both for the business and IT, for carrying out the principle |
+
+### Business Transformation Readiness Assessment (BTRP)
+- Understanding the readiness of the organization to accept change and then dealing with them in the Implementation and Migration Plans is key to successful architecture transformation in Phases E and F
+- Steps to do BTRP
+   - Determine the readiness factors that will impact the organization
+   - Present the readiness factors using maturity models
+   - Assess the readiness factors, including determination of readiness factor ratings
+   - Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
+   - Work these actions into Phase E and F Implementation and Migration Plan
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
    
 ## Architecture Capability
 - It is an evaludation of your ability to define Enterprise Architecture
