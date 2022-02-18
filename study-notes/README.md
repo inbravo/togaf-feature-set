@@ -103,7 +103,10 @@ A discipline -
 | Implications | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
 ### Business Transformation Readiness Assessment (BTRP)
-- Understanding the readiness of the organization to accept change and then dealing with them in the Implementation and Migration Plans is key to successful architecture transformation in Phases E and F
+- Helps in understanding the readiness of the organization to accept the change
+- Business assessment is done at Phase A- Vision
+- The results of the readiness assessment should be added to the Capability Assessment in Phases B-C-D 
+- Implementation and Migration Plans is key to successful architecture transformation in Phases E and F
 - Steps to do BTRP
    - Determine the readiness factors that will impact the organization
    - Present the readiness factors using maturity models
