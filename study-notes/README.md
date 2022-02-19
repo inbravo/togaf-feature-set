@@ -85,6 +85,13 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_target.png" width="700"></p>
 
 ## ADM Guidelines and Techniquies
+- Reasons for Adapting the ADM Process
+   - The order of the phases in the ADM is to some extent dependent on the maturity of the architecture discipline within the enterprise
+   - Wanting to adapt the ADM is if the TOGAF framework is to be integrated with another enterprise framework
+   - The ADM is one of the many corporate processes that make up the corporate governance model 
+   - The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored
+   - The enterprise is a small-to-medium enterprise, and wishes to use a "cut-down" method 
+   - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
 - Guidelines for Adapting the ADM Process
 
 ### Principles
