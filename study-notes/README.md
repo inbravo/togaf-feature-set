@@ -160,20 +160,14 @@ A discipline -
    - ***Time Period (T)***: what is the time period that needs to be articulated for the Architecture Vision
 
 ## TOGAF Architecture Content Framework (ACF)
-- Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
-  - Process flows
-  - Architectural requirements
-  - Project plans 
-  - Project compliance assessments etc. 
-- ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***.
+- Architects executing the ADM will produce architectural content as a result of their efforts
+- ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***
 - ACF uses the following three categories (***DAB***) to describe the type of architectural work product within the context of use:
   - ***Deliverables (D)***
   - ***Artifacts (A)***
   - ***Building Blocks (B)***
-    - ***Architecture Building Blocks (ABBs)***
-    - ***Solution Building Blocks (SBBs)***   
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts1.png" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/deliverables.png" width="2000"></p>
 
 ### Architecture Definition Document (ADD)
 - ADD is a deliverable that documents an Architecture Description
