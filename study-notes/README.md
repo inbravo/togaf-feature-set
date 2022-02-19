@@ -115,7 +115,27 @@ A discipline -
    - Work these actions into Phase E and F Implementation and Migration Plan
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
-   
+
+### Business Scenerios
+- Business scenarios are an important technique that may be used prior to, and as a key input to, the development of the architecture
+- TOGAF Library contains the specification for Business Scenerios
+- ADM Phase A Vision is where Business Scenerios are used
+- A Business Scenario describes: 
+   - A business process, application, or set of applications, that can be enabled by the architecture (***Process***)
+   - The business and technology environment (***Platform***)
+   - The people and computing components (called "actors") who execute the scenario (***People***)
+   - The desired outcome of proper execution (***Results***)
+- A good Business Scenario is also ***SMART***
+   - ***Specific***, by defining what needs to be done in the business
+   - ***Measurable***, through clear metrics for success
+   - ***Actionable***, by
+      - Clearly segmenting the problem, and
+      - Providing the basis for determining elements and plans for the solution
+    - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
+    - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
+
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
+
 ## Architecture Capability
 - It is an evaludation of your ability to define Enterprise Architecture
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
@@ -160,20 +180,14 @@ A discipline -
    - ***Time Period (T)***: what is the time period that needs to be articulated for the Architecture Vision
 
 ## TOGAF Architecture Content Framework (ACF)
-- Architects executing the ADM will produce architectural content as a result of their efforts. Some examples
-  - Process flows
-  - Architectural requirements
-  - Project plans 
-  - Project compliance assessments etc. 
-- ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***.
+- Architects executing the ADM will produce architectural content as a result of their efforts
+- ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***
 - ACF uses the following three categories (***DAB***) to describe the type of architectural work product within the context of use:
   - ***Deliverables (D)***
   - ***Artifacts (A)***
   - ***Building Blocks (B)***
-    - ***Architecture Building Blocks (ABBs)***
-    - ***Solution Building Blocks (SBBs)***   
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts1.png" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/deliverables.png" width="2000"></p>
 
 ### Architecture Definition Document (ADD)
 - ADD is a deliverable that documents an Architecture Description
