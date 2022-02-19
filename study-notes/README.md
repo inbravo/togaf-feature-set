@@ -134,6 +134,8 @@ A discipline -
     - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
     - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
 
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
+
 ## Architecture Capability
 - It is an evaludation of your ability to define Enterprise Architecture
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
