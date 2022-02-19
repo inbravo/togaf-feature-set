@@ -120,6 +120,9 @@ A discipline -
 - Business scenarios are an important technique that may be used prior to, and as a key input to, the development of the architecture
 - TOGAF Library contains the specification for Business Scenerios
 - ADM Phase A Vision is where Business Scenerios are used
+
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
+
 - A Business Scenario describes: 
    - A business process, application, or set of applications, that can be enabled by the architecture (***Process***)
    - The business and technology environment (***Platform***)
@@ -133,8 +136,6 @@ A discipline -
       - Providing the basis for determining elements and plans for the solution
     - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
     - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
-
-<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
 
 ## Architecture Capability
 - It is an evaludation of your ability to define Enterprise Architecture
