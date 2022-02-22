@@ -67,17 +67,13 @@ A discipline -
   
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_adm_iteration.png" width="400"></p>
 
-## TOGAF ADM Stages Objectives
+### TOGAF ADM Stages Objectives, Input, Output and Steps ([Mind Maps](adm-stages-steps.md))
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-objective.png" width="2000"></p>
-
-## TOGAF ADM Stages Steps ([Mind Maps](adm-stages-steps.md))
-<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-steps.png" width="2000"></p>
-
-## TOGAF ADM Stages Input and Output
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-output.png" width="2000"></p>
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-steps.png" width="2000"></p>
 
-## Iteration within an ADM Cycle
+### Iteration within an ADM Cycle
 - Baseline First Architecture Definition
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_baseline.png" width="700"></p>
 
