@@ -239,6 +239,13 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
 
 ## Key Definitions
+- ***Organizational Model*** for EA provides information on the organization, roles, and responsibilities within the enterprise. It includes
+   - Scope of organizations impacted
+   - Maturity assessment, gaps, and resolution approach
+   - Roles and responsibilities for architecture team(s)
+   - Constraints on architecture work
+   - Budget requirements
+   - Governance and support strategy
 - An ***Architecture Description*** is a work product used to express an architecture; a collection of architecture views and models that together document the architecture
 - ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
 - ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
