@@ -88,16 +88,18 @@ A discipline -
    - The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored
    - The enterprise is a small-to-medium enterprise, and wishes to use a "cut-down" method 
    - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
-- Following techniques are used t0 support specific tasks within the ADM:
-   1. Architecture Principles 
-   2. Stakeholder Management 
-   3. Architecture Patterns 
-   4. Gap Analysis is widely used in the TOGAF ADM to validate an architecture that is being developed
-   5. Migration Planning Techniques to support migration planning in Phases E and F
-   6. Interoperability Requirements for determining interoperability requirements
-   7. Business Transformation Readiness Assessment 
-   8. Risk Management 
-   9. Capability-Based Planning 
+- Following techniques are used to support specific tasks within the ADM:
+
+|      |      |  
+| ----------- | ----------- | 
+| Architecture Principles  | Principles are general rules and guidelines | 
+| Stakeholder Management  |  |
+| Architecture Patterns |  |
+| Gap Analysis |  |
+| Migration Planning |  |
+| Business Transformation Readiness Assessment |  |
+| Risk Management  |  |
+| Capability-Based Planning   |  |
 
 #### Principles
 - Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission
