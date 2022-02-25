@@ -102,10 +102,9 @@ A discipline -
    | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html)   |
 
 #### Principles
-- Principles are general rules and guidelines, intended to be ***enduring and seldom amended***, that inform and support the way in which an organization sets about fulfilling its mission
-- Depending on the organization, principles may be established within different domains and at different levels
-   - Five qualities of a good Principle: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)***
-   - Recommended template for Principles
+- Principles are general rules and guidelines, intended to be ***enduring and seldom amended***
+- Five qualities of a good Principle: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)***
+- Recommended template for Principles
    
    |      |      |  
    | ----------- | ----------- | 
@@ -115,10 +114,8 @@ A discipline -
    | ***Implications*** | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
 #### Business Transformation Readiness Assessment (BTRP)
-- Helps in understanding the readiness of the organization to accept the change
-- Business assessment is done at Phase A- Vision
-- The results of the readiness assessment should be added to the Capability Assessment in Phases B-C-D 
-- Implementation and Migration Plans is key to successful architecture transformation in Phases E and F
+
+- The BTRP results goes to the Capability Assessment in Phases B-C-D 
 - Steps to do BTRP
    - Determine the readiness factors that will impact the organization
    - Present the readiness factors using maturity models
@@ -129,9 +126,8 @@ A discipline -
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
 
 #### Business Scenerios
-- Business scenarios are an important technique that may be used prior to, and as a key input to, the development of the architecture
+- ***Business Scenerios used at Phase A- Vision***
 - TOGAF Library contains the specification for Business Scenerios
-- ADM Phase A Vision is where Business Scenerios are used
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
 
