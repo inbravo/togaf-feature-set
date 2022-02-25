@@ -2,22 +2,22 @@
 
 ## **The Open Group** 
 
-|      |      |  
-| ----------- | ----------- | 
-| Vision  | ***Boundaryless Information Flow*** Boundaries exists but permeable to enable business | 
-| Mission | Creation of ***Boundaryless Information Flow*** achieved by working with customers and suppliers |
-| Architecture Forum Mission | Advance the Open Group vision of ***Boundaryless Information Flow*** for and between enterprises |
+   |      |      |  
+   | ----------- | ----------- | 
+   | Vision  | ***Boundaryless Information Flow*** Boundaries exists but permeable to enable business | 
+   | Mission | Creation of ***Boundaryless Information Flow*** achieved by working with customers and suppliers |
+   | Architecture Forum Mission | Advance the Open Group vision of ***Boundaryless Information Flow*** for and between enterprises |
 
 ## Enterprise Architecture (EA)
 A discipline - 
 - That defines, organises, standardizes, and documents the whole architecture and all important elements of the respective organisation, covering relevant domains such as business, digital, physical, or organisational; and 
 - The relations and interactions between elements that belong to those domains, such as processes, functions, applications, events, data, or technologies
 
-|      |      |  
-| ----------- | ----------- | 
-| Need | Preparation for business transformation or any radical infrastructure change initiates |
-| Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
-| Benefits | More effective and efficient **_Business operations_**, Digital Transformation and **_IT operations_**, Better return on  **_Existing Investment_**, Reduced Risk for  **_Future Investment_**, Faster, simpler, and cheaper **_Procurement_** |
+   |      |      |  
+   | ----------- | ----------- | 
+   | Need | Preparation for business transformation or any radical infrastructure change initiates |
+   | Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
+   | Benefits | More effective and efficient **_Business operations_**, Digital Transformation and **_IT operations_**, Better return on  **_Existing Investment_**, Reduced Risk for  **_Future Investment_**, Faster, simpler, and cheaper **_Procurement_** |
 
 ## Architecture Framework
 - A foundational structure, or set of structures, which can be used for developing different architectures 
@@ -90,31 +90,29 @@ A discipline -
    - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
 - Following techniques are used to support specific tasks within the ADM:
 
-|      |      |  
-| ----------- | ----------- | 
-| Architecture Principles  | Principles are general rules and guidelines | 
-| Stakeholder Management  |  |
-| Architecture Patterns |  |
-| Gap Analysis |  |
-| Migration Planning |  |
-| Business Transformation Readiness Assessment |  |
-| Risk Management  |  |
-| Capability-Based Planning   |  |
+   |      | 
+   | ----------- | 
+   | [Architecture Principles](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | 
+   | [Stakeholder Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) |
+   | [Architecture Patterns](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) |
+   | [Gap Analysis](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) |
+   | [Migration Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |
+   | [Business Transformation Readiness Assessment](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) |
+   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |
+   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html)   |
 
 #### Principles
-- Principles are general rules and guidelines, intended to be enduring and seldom amended, that inform and support the way in which an organization sets about fulfilling its mission
+- Principles are general rules and guidelines, intended to be ***enduring and seldom amended***, that inform and support the way in which an organization sets about fulfilling its mission
 - Depending on the organization, principles may be established within different domains and at different levels
-   - ***Enterprise Principles*** provide a basis for decision-making throughout an enterprise
-   - ***Architecture Principles*** are a set of principles that relate to architecture work 
    - Five qualities of a good Principle: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)***
    - Recommended template for Principles
-  
-|      |      |  
-| ----------- | ----------- | 
-| Name | Should both represent the essence of the rule as well as be easy to remember |
-| Statement | Should succinctly and unambiguously communicate the fundamental rule |
-| Rationale | Should highlight the business benefits of adhering to the principle, using business terminology |
-| Implications | Should highlight the requirements, both for the business and IT, for carrying out the principle |
+   
+   |      |      |  
+   | ----------- | ----------- | 
+   | ***Name*** | Should both represent the essence of the rule as well as be easy to remember |
+   | ***Statement*** | Should succinctly and unambiguously communicate the fundamental rule |
+   | ***Rationale*** | Should highlight the business benefits of adhering to the principle, using business terminology |
+   | ***Implications*** | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
 #### Business Transformation Readiness Assessment (BTRP)
 - Helps in understanding the readiness of the organization to accept the change
