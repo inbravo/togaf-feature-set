@@ -181,6 +181,10 @@ A discipline -
       
 ## Part 4 - TOGAF Architecture Content Framework (ACF)
 - Architects executing the ADM will produce architectural content as a result of their efforts
+- Core content metamodel is how to structure your content within the repository, including the extentions
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/34_contentfwk1.png" width="700"></p>
+
 - ACF provides a ***Structural Model for Architectural Content*** that allows major work products to be ***consistently Defined, Structured, and Presented***
 - ACF uses the following three categories (***DAB***) to describe the type of architectural work product within the context of use:
   - ***Deliverables (D)***
@@ -189,7 +193,7 @@ A discipline -
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/deliverables.png" width="2000"></p>
 
-### Architecture Definition Document (ADD)
+#### Architecture Definition Document (ADD)
 - ADD is a deliverable that documents an Architecture Description
 - An example of the relationships between deliverables, artifacts, and building blocks is illustrated
 
@@ -256,7 +260,7 @@ A discipline -
 - Characteristics of Governance (***DTIARF***)
    - Discipline (D), Transparency (T), Independence (I), Accountability (A), Responsibility (R), Fairness (F)
 
-## Architecture Governance Framework
+#### Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures
  
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_concepts.png" width="700"></p>
@@ -265,7 +269,7 @@ A discipline -
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_org.png" width="700"></p>
 
-## Scoping the Architecture 
+#### Scoping the Architecture 
 - Four dimensions (BDAT) are typically used in order to define and limit the scope of an architecture
    - ***Breadth (B)***: what is the full extent of the enterprise?   
    - ***Depth (D)***: to what level of detail should the architecting effort go?
