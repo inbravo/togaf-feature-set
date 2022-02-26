@@ -83,7 +83,7 @@ A discipline -
 - The enterprise is a small-to-medium enterprise, and wishes to use a "cut-down" method 
 - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
 
-## ([Part 3 - ADM Guidelines and Techniques ](part-3.md))
-## ([Part 4 - Architecture Content Framework ](part-4.md))
-## ([Part 5 - Enterpriese Continuum ](part-5.md))
-## ([Part 6 - Architecture Capability Framework ](part-6.md))
+## [Part 3 - ADM Guidelines and Techniques ](part-3.md)
+## [Part 4 - Architecture Content Framework ](part-4.md)
+## [Part 5 - Enterpriese Continuum ](part-5.md)
+## [Part 6 - Architecture Capability Framework ](part-6.md)
