@@ -1,6 +1,8 @@
 # TOGAF 101 
 
-## **The Open Group** 
+## Part 1 - Introduction
+
+#### **The Open Group** 
 
    |      |      |  
    | ----------- | ----------- | 
@@ -8,7 +10,7 @@
    | Mission | Creation of ***Boundaryless Information Flow*** achieved by working with customers and suppliers |
    | Architecture Forum Mission | Advance the Open Group vision of ***Boundaryless Information Flow*** for and between enterprises |
 
-## Enterprise Architecture (EA)
+#### Enterprise Architecture (EA)
 A discipline - 
 - That defines, organises, standardizes, and documents the whole architecture and all important elements of the respective organisation, covering relevant domains such as business, digital, physical, or organisational; and 
 - The relations and interactions between elements that belong to those domains, such as processes, functions, applications, events, data, or technologies
@@ -19,7 +21,7 @@ A discipline -
    | Purpose  | To optimize across the enterprise the often fragmented legacy of processes into an integrated environment that is responsive to change and supportive of the delivery of the business strategy | 
    | Benefits | More effective and efficient **_Business operations_**, Digital Transformation and **_IT operations_**, Better return on  **_Existing Investment_**, Reduced Risk for  **_Future Investment_**, Faster, simpler, and cheaper **_Procurement_** |
 
-## Architecture Framework
+#### Architecture Framework
 - A foundational structure, or set of structures, which can be used for developing different architectures 
 - Should describe a method for designing a target state of the enterprise in terms of a set of building blocks
 - Should contain a set of tools and provide a common vocabulary 
@@ -28,13 +30,13 @@ A discipline -
    - Systematic ***Codified Common Sense***
    - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
  
- ## Architecture
+ #### Architecture
  - ISO/IEC/IEEE 42010:2011 definition: 
    - _**The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution**._
 - TOGAF definition: 
    - _**The structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time**._
 
-## TOGAF Standard
+#### TOGAF Standard
 - A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
 - A ***Framework*** not ***Architecture*** to develop architectures to meet different business needs
 - TOGAF as Enterprise Architecture (EA) framework
@@ -47,7 +49,7 @@ A discipline -
    - ***Application Architecture (A)***: provides a blueprint for the applications to be deployed, their interactions, and their relationships to the core business processes
    - ***Technical Architecture (T)***: describes the logical software & hardware capabilities, required to support the deployment of business, data, and application services
 
-## TOGAF Parts
+#### TOGAF Parts
 1. ***Introduction*** is a step by step approach, which is at the core of the TOGAF framework
 2. ***Architecture Development Method (ADM)*** is a step by step approach, which is at the core of the TOGAF framework
 3. ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
