@@ -73,14 +73,7 @@ A discipline -
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-output.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-steps.png" width="2000"></p>
 
-### Iteration within an ADM Cycle
-- Baseline First Architecture Definition
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_baseline.png" width="700"></p>
-
-- Target First Architecture Definition
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_target.png" width="700"></p>
-
-## Part 3 - ADM Guidelines and Techniquies
+#### Adapting the ADM Process
 - Reasons for Adapting the ADM Process
    - The order of the phases in the ADM is dependent on the maturity of the architecture discipline within the enterprise
    - Wanting to adapt the ADM is if the TOGAF framework is to be integrated with another enterprise framework
@@ -88,22 +81,24 @@ A discipline -
    - The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored
    - The enterprise is a small-to-medium enterprise, and wishes to use a "cut-down" method 
    - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
-- Following techniques are used to support specific tasks within the ADM:
 
-   |      | 
-   | ----------- | 
-   | [Architecture Principles](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | 
-   | [Stakeholder Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) |
-   | [Architecture Patterns](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) |
-   | [Gap Analysis](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) |
-   | [Migration Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |
-   | [Business Transformation Readiness Assessment](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) |
-   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |
-   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html)   |
+
+## Part 3 - ADM Guidelines and Techniquies
+
+   |      |   |
+   | ----------- |-----------  |
+   | [Applying Iteration to the ADM](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap19.html) | ***Baseline First*** or ***Target First*** Architecture Definition |
+   | [Architecture Principles](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | Principle Qualities: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)*** |
+   | [Stakeholder Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) |  It is important to pay particular attention to stakeholder interests by defining specific ***catalogs, matrices, and diagrams that are relevant*** for a particular Enterprise Architecture model. This enables the architecture to be communicated to, and understood by, all the stakeholders |
+   | [Architecture Patterns](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) | ***Architecture*** Pattern, ***Design*** Pattern or  ***Idiom*** (programming language specific pattern)  |
+   | [Gap Analysis](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) | Highlight a shortfall between the Baseline Architecture and the Target Architecture; that is, items that have been deliberately ***omitted, accidentally left out, or not yet*** defined  |
+   | [Migration Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |  |
+   | [Business Transformation Readiness Assessment (BRTP)](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | The BTRP results goes to the ***Capability Assessment*** in Phases B-C-D  |
+   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |   ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
+   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  Often the need for these capabilities are discovered and refined using business scenarios |
 
 #### Principles
 - Principles are general rules and guidelines, intended to be ***enduring and seldom amended***
-- Five qualities of a good Principle: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)***
 - Recommended template for Principles
    
    |      |      |  
@@ -113,15 +108,18 @@ A discipline -
    | ***Rationale*** | Should highlight the business benefits of adhering to the principle, using business terminology |
    | ***Implications*** | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
-#### Business Transformation Readiness Assessment (BTRP)
+#### Stakeholder Management
+- Identify Stakeholders
+- Classify Stakeholder Positions
+- Determine Stakeholder Management Approach
+- Tailor Engagement Deliverables 
 
-- The BTRP results goes to the Capability Assessment in Phases B-C-D 
-- Steps to do BTRP
-   - Determine the readiness factors that will impact the organization
-   - Present the readiness factors using maturity models
-   - Assess the readiness factors, including determination of readiness factor ratings
-   - Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
-   - Work these actions into Phase E and F Implementation and Migration Plan
+#### Business Transformation Readiness Assessment (BTRP)
+- Determine the readiness factors that will impact the organization
+- Present the readiness factors using maturity models
+- Assess the readiness factors, including determination of readiness factor ratings
+- Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
+- Work these actions into Phase E and F Implementation and Migration Plan
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
 
