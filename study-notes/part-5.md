@@ -59,6 +59,11 @@
       -  Types: ***Legal and Regulatory Obligations***, ***Industry Standards*** and ***Organizational Standards***
    -  ***Reference Library*** provides guidelines, templates, patterns, and other forms of reference material
    -  ***Governance Log*** provides a record of governance activity across the enterprise
+      -  ***Decision Log*** (architecturally significant decisions that have been made in the organization)
+      -  ***Compliance Assessments*** (logs of periodically measured compliance of the project)    
+      -  ***Capability Assessments*** (logs of periodically carried out assesments to ensure that appropriate progress is being made)
+      -  ***Calendar*** (schedule of in-flight projects and formal review sessions to be held against these projects)
+      -  ***Project Portfolio*** (description, Architectural scope, architectural roles and responsibilities associated with the project)
    -  ***Architecture Requirements Repository*** provides a view of all authorized architecture requirements
    -  ***Solutions Landscape*** presents an architectural representation of the Solution Building Blocks (SBBs)  
 
