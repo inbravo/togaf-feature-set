@@ -10,6 +10,8 @@
 
 #### Architecture Continuum
 - The Architecture Continuum illustrates how architectures are developed and evolved across a continuum ranging from Foundation Architectures
+- The leftwards direction focuses on meeting enterprise needs and business requirements 
+- The rightwards direction focuses on leveraging architectural components and building blocks
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_archcon.png" width="700"></p>
 
@@ -33,3 +35,8 @@
    -  ***Solutions Landscape*** presents an architectural representation of the Solution Building Blocks (SBBs)  
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
+
+#### Industry specific models
+- TM Forum for Telecommunications
+- ARTS for Retail
+- Energistics for Petrotechnical
