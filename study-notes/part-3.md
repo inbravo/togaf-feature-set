@@ -4,15 +4,16 @@
 
    |    Technique  | Applicable Phase  | Description |
    | ----------- | -----------  | -----------  |
-   | [Applying Iteration to the ADM](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap19.html) | ***All*** | ***Baseline First*** or ***Target First*** Architecture Definition |
+   | [Applying Iteration to the ADM](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap19.html) | ***ALL*** | ***Baseline First*** or ***Target First*** Architecture Definition |
    | [Architecture Principles](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | ***Preliminary & Phase A*** | Principle Qualities: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)*** |
    | [Stakeholder Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) | ***Phase A*** | It is important to pay particular attention to stakeholder interests by defining specific ***catalogs, matrices, and diagrams that are relevant*** for a particular Enterprise Architecture model. This enables the architecture to be communicated to, and understood by, all the stakeholders |
    | [Architecture Patterns](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) |  ***Phase A-B-C-D*** | ***Architecture*** Pattern, ***Design*** Pattern or  ***Idiom*** (programming language specific pattern)  |
    | [Gap Analysis](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) | ***Phase E*** | Highlight a shortfall between the Baseline Architecture and the Target Architecture; items that have been ***Deliberately Omitted, Accidentally Left Out, or Not Yet Defined***  |
    | [Migration Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |  ***Phase E & F*** | There are 5 techniques: ***Implementation Factor Assessment & Deduction Matrix***, ***Consolidated Gaps, Solutions, & Dependencies Matrix***, ***Architecture Definition Increments Table***, ***Transition Architecture State Evolution Table***, ***Business Value Assessment Technique*** |
-   | [Business Transformation Readiness Assessment (BRTP)](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | ***Phases B-C-D***  |Used in  ***Capability Assessment***   |
-   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***All*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
-   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***All*** | Often the need for these capabilities are discovered and refined using business scenarios |
+   | [Interoperability Requirements](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | ***ALL***  | Defining the degree to which the information and services are to be shared  |
+   | [Business Transformation Readiness Assessment (BRTP)](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) | ***Phases B-C-D***  |Used in  ***Capability Assessment***   |
+   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
+   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | Often the need for these capabilities are discovered and refined using business scenarios |
 
 #### Principles
 - Principles are general rules and guidelines, intended to be ***enduring and seldom amended***
@@ -30,6 +31,15 @@
 - Classify Stakeholder Positions
 - Determine Stakeholder Management Approach
 - Tailor Engagement Deliverables 
+
+#### Interoperability Requirements
+- Architecture Vision (Phase A), the nature and security considerations of the information and service exchanges are first ***Revealed*** within the business scenarios
+- Business Architecture (Phase B), the information and service exchanges are further ***Defined*** in business terms
+- Data Architecture (Phase C), the ***Content*** of the information exchanges is detailed using the corporate data and/or information exchange model
+- Application Architecture (Phase C), the way that the various applications are to ***Share*** the information and services is specified
+- Technology Architecture (Phase D), the appropriate ***Technical mechanisms to permit*** the information and service exchanges are specified
+- Opportunities & Solutions (Phase E), the ***Actual solutions*** (e.g., Commercial Off-The-Shelf (COTS) packages) are selected
+- Migration Planning (Phase F), the ***Interoperability*** is logically implemented
 
 #### Business Transformation Readiness Assessment (BTRP)
 - Determine the readiness factors that will impact the organization
