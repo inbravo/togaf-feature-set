@@ -33,13 +33,13 @@
 - Tailor Engagement Deliverables 
 
 #### Interoperability Requirements
-- Architecture Vision (Phase A), the nature and security considerations of the information and service exchanges are first ***Revealed*** within the business scenarios
-- Business Architecture (Phase B), the information and service exchanges are further ***Defined*** in business terms
-- Data Architecture (Phase C), the ***Content*** of the information exchanges is detailed using the corporate data and/or information exchange model
-- Application Architecture (Phase C), the way that the various applications are to ***Share*** the information and services is specified
-- Technology Architecture (Phase D), the appropriate ***Technical mechanisms to permit*** the information and service exchanges are specified
-- Opportunities & Solutions (Phase E), the ***Actual solutions*** (e.g., Commercial Off-The-Shelf (COTS) packages) are selected
-- Migration Planning (Phase F), the ***Interoperability*** is logically implemented
+- Architecture Vision (Phase A), the nature and security considerations of the information and service exchanges are first ***Revealed within the business scenarios***
+- Business Architecture (Phase B), the information and service exchanges are further ***Defined in business terms***
+- Data Architecture (Phase C), the Content of the information exchanges is ***Detailed using the corporate data and/or information exchange model***
+- Application Architecture (Phase C), ***the way that the various applications are to share the information and services is specified***
+- Technology Architecture (Phase D), the appropriate ***Technical mechanisms to permit the information and service exchanges are specified***
+- Opportunities & Solutions (Phase E), the ***Actual solutions (e.g., Commercial Off-The-Shelf (COTS) packages) are selected***
+- Migration Planning (Phase F), the ***Interoperability is logically implemented***
 
 #### Business Transformation Readiness Assessment (BTRP)
 - Determine the readiness factors that will impact the organization
