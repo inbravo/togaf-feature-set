@@ -50,7 +50,7 @@ A discipline -
    - ***Technical Architecture (T)***: describes the logical software & hardware capabilities, required to support the deployment of business, data, and application services
 
 #### TOGAF Parts
-1. ***Introduction*** is a step by step approach, which is at the core of the TOGAF framework
+1. ***Introduction*** provides basic details of TOGAF framework
 2. ***Architecture Development Method (ADM)*** is a step by step approach, which is at the core of the TOGAF framework
 3. ***ADM Guidelines & Techniques*** contains a collection of guidelines and techniques used while applying the TOGAF ADM
 4. ***Architecture Content Framework*** describes a structured metamodel for architectural artifacts, using re-usable Architecture Building Blocks (ABBs)
