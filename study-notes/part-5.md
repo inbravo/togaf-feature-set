@@ -72,13 +72,13 @@
    - ***Application Portability*** via the Application Platform Interface
    - ***Interoperability*** via the Communications Infrastructure Interface
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/43_trm_detail.png" width="700"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/43_trm_detail.png" width="400"></p>
 
 #### Integrated Information Infrastructure Reference Model (III-RM)
 - The III-RM is a model of the major component categories for developing, managing, and operating an integrated information infrastructure
-- It is a model of a set of applications that sits on top of an Application Platform. This model is a subset of the TOGAF TRM
+- Fundamentally it is an Application Architecture Reference Model. This model is a subset of the TOGAF TRM
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="700"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="500"></p>
 
 #### Industry specific models
 - TM Forum for Telecommunications
