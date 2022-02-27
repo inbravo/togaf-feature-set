@@ -65,5 +65,6 @@
 
 #### Industry specific models
 - TM Forum for Telecommunications
-- ARTS for Retail
+- Association of Retail Technology Standards (ARTS) for Retail
 - Energistics for Petrotechnical
+- Resources, Events, Agents (REA) for accounting system
