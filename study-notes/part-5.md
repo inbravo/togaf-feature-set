@@ -55,9 +55,8 @@
    -  ***Architecture Metamodel*** describes the organizationally tailored application of an architecture framework
    -  ***Architecture Capability*** defines the parameters, structures, and processes
    -  ***Architecture Landscape*** presents an architectural representation of assets
-   -  ***Standards Information*** Base captures the standards with which new architectures must comply
-      -  Standards Information Base (***SIB***) provides a repository area to hold a set of specifications, to which architectures must conform
-      -  ***Legal and Regulatory Obligations***, ***Industry Standards*** and ***Organizational Standards***
+   -  ***Standards Information Base*** provides a repository area to hold a set of specifications, to which architectures must conform
+      -  Types: ***Legal and Regulatory Obligations***, ***Industry Standards*** and ***Organizational Standards***
    -  ***Reference Library*** provides guidelines, templates, patterns, and other forms of reference material
    -  ***Governance Log*** provides a record of governance activity across the enterprise
    -  ***Architecture Requirements Repository*** provides a view of all authorized architecture requirements
