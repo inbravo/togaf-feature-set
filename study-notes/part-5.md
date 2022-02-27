@@ -75,10 +75,10 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/43_trm_detail.png" width="400"></p>
 
 #### Integrated Information Infrastructure Reference Model (III-RM)
-- The III-RM is a model of the major component categories for developing, managing, and operating an integrated information infrastructure
 - Fundamentally it is an Application Architecture Reference Model. This model is a subset of the TOGAF TRM
+- Model for developing, managing, and operating an integrated information infrastructure
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="500"></p>
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="700"></p>
 
 #### Industry specific models
 - TM Forum for Telecommunications
