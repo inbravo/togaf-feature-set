@@ -21,6 +21,33 @@
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_solcon.png" width="700"></p>
 
+#### Foundation Architecture
+- Consists of ***generic components, inter-relationships, principles, and guidelines*** that provide a foundation on which more specific architectures can be built
+- The TOGAF TRM is an example of a Foundation Architecture. It is a fundamental architecture upon which other, more specific architectures can be based
+
+#### Common Systems Architectures
+- Reflects requirements specific to a ***Generic problem domain***
+- Defines building blocks specific to a ***Generic problem domain***
+- Defines business, data, application, or technology standards for implementing these building blocks
+- Provides building blocks for easy re-use and lower costs
+
+#### Industry Architectures
+- Reflects requirements and standards specific to a ***Vertical industry***
+- Defines building blocks specific to a ***Generic problem domain***
+- Contains ***Industry-specific*** logical data and process models
+- Contains ***Industry-specific*** applications and process models, as well as industry-specific business rules
+- Provides guidelines for testing collections of systems
+- Encourages levels of interoperability throughout the industry
+
+#### Organization-Specific Architectures
+- Provides a means to communicate and manage business operations across all four architectural domains
+- Reflects requirements specific to a ***Particular enterprise***
+- Defines building blocks specific to a ***Particular enterprise***
+- Contains ***Organization-specific*** business models, data, applications, and technologies
+- Provides a means to encourage implementation of appropriate solutions to meet business needs
+- Provides the criteria to measure and select appropriate products, solutions, and services
+- Provides an evolutionary path to support growth and new business needs
+
 #### Architecture Repository
 - Operating a mature Architecture Capability within a large enterprise creates a huge volume of architectural output 
 - Effective management and leverage of these architectural work products require a formal taxonomy
