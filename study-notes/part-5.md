@@ -63,6 +63,23 @@
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
 
+#### Technical Reference Model (TRM)
+- The Foundation Architecture is embodied within the Technical Reference Model (TRM)
+- TRM provides a model and taxonomy of generic platform services. It includes
+   - A ***Taxonomy***, which defines terminology, and provides a coherent description of the components and conceptual structure of an information system
+   - An associated ***TRM Graphic***, which provides a visual representation of the taxonomy, as an aid to understanding
+- The high-level TRM seeks to emphasize two major common architectural objectives:
+   - ***Application Portability*** via the Application Platform Interface
+   - ***Interoperability*** via the Communications Infrastructure Interface
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/43_trm_detail.png" width="700"></p>
+
+#### Integrated Information Infrastructure Reference Model (III-RM)
+- The III-RM is a model of the major component categories for developing, managing, and operating an integrated information infrastructure
+- It is a model of a set of applications that sits on top of an Application Platform. This model is a subset of the TOGAF TRM
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="700"></p>
+
 #### Industry specific models
 - TM Forum for Telecommunications
 - Association of Retail Technology Standards (ARTS) for Retail
