@@ -16,6 +16,7 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_archcon.png" width="700"></p>
 
 #### Solutions Continuum
+- The relationship between the Architecture Continuum and the Solutions Continuum is one of ***guidance, direction, and support***
 - The Solutions Continuum is a population of the architecture with reference building blocks
 - The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
