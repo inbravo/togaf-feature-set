@@ -51,3 +51,10 @@
 - The ADM is being mandated for use by a prime or lead contractor in an outsourcing situation, and needs to be tailored
 - The enterprise is a small-to-medium enterprise, and wishes to use a "cut-down" method 
 - The enterprise is very large and complex, and the architecture method needs to be adapted to recognize this 
+
+#### Criterian in Assigning a Business Value to Work Package
+- ***Performance Evaluation Criteria*** are used by portfolio and capability managers to approve and monitor the progress of the architecture transformation
+- ***Return-on-Investment Criteria*** have to be detailed and signed off by the various executive stakeholders
+- ***Business Value*** will be used by portfolio and capability managers to allocate resources and, in cases where there are cutbacks, business value in conjunction with return on investment can be used to determine whether an endeavor proceeds, is delayed, or is canceled
+- ***Critical Success Factors*** (CSFs) should be established to define success for a project and/or project increment
+- ***Measures of Effectiveness*** (MOE) are often performance criteria and many corporations include them in the CSFs
