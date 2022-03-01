@@ -58,3 +58,4 @@
 - ***Business Value*** will be used by portfolio and capability managers to allocate resources and, in cases where there are cutbacks, business value in conjunction with return on investment can be used to determine whether an endeavor proceeds, is delayed, or is canceled
 - ***Critical Success Factors*** (CSFs) should be established to define success for a project and/or project increment
 - ***Measures of Effectiveness*** (MOE) are often performance criteria and many corporations include them in the CSFs
+- ***Strategic Fit*** based upon the overall Enterprise Architecture (all tiers) will be the critical factor for allowing the approval of any new project or initiative and for determining the value of any deliverable
