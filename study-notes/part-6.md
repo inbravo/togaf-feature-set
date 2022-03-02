@@ -44,4 +44,9 @@
    - ***Time Period (T)***: what is the time period that needs to be articulated for the Architecture Vision
 
 #### Architecture Compliance
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/48_conformance.png" width="700"></p>
+- ***Irrelevant***- ***No features*** common between specification & implementation
+- ***Consistent***- ***Some features*** common between specification & implementation
+- ***Compliant***- Some specification features are not implemented, but ***all implemented features are covered by the specification***
+- ***Conformant***- All the features are implemented in accordance with the specification, but ***some implemented features that are not accordance with it***
+- ***Fully Conformant***- There is ***full correspondence*** between architecture specification and implementation.
+- ***Non-conformant***-Some features in the architecture specification are implemented not in accordance with the specification
