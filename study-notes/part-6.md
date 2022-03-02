@@ -46,7 +46,7 @@
 #### Architecture Compliance
 - ***Irrelevant***- ***No features*** common between specification & implementation
 - ***Consistent***- ***Some features*** common between specification & implementation
-- ***Compliant***- Some specification features are not implemented, but ***All implemented features AS PER (PART-OF) Specification***
-- ***Conformant***- All specification features are implemented, but ***Some other implemented features NOT AS PER (PART-OF) Specification***
+- ***Compliant***- Some specs features are not implemented, but ***All implemented features AS PER Specs***
+- ***Conformant***- All specification features are implemented, but ***Some other implemented features NOT PART-OF Specs***
 - ***Fully Conformant***- There is ***full correspondence*** between architecture specification and implementation
 - ***Non-conformant***-Some features in the architecture specification are implemented not in accordance with the specification
