@@ -42,3 +42,6 @@
    - ***Depth (D)***: to what level of detail should the architecting effort go?
    - ***Architecture Domains (A)***: a complete EA description should contain all four domains (business, data, application, technology)
    - ***Time Period (T)***: what is the time period that needs to be articulated for the Architecture Vision
+
+#### Architecture Compliance
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/48_conformance.png" width="700"></p>
