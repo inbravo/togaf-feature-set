@@ -15,6 +15,14 @@
    | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
    | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | It is business-driven and business-led and combines the requisite efforts of all lines of business to achieve the desired capability |
 
+### Architecture Development Approaches
+- ***Baseline First or Bottom-Up Approach*** 
+  - This process is most suitable when the baseline is complex, not clearly understood, or agreed upon
+  - This approach is common where organizational units have had a high degree of autonomy
+- ***Target First or Top-Down Approach*** 
+  - This process is suitable when a target state is agreed at a high level and where the enterprise wishes to effectively transition to the target model. 
+  - Typically, if the baseline is broadly understood a higher value will be obtained focusing on the target first then baseline to the extent necessary to identify changes
+ 
 #### Risk Management
 - There are two levels of risk-
    - ***Initial Level of Risk***: risk categorization prior to determining and implementing mitigating actions
