@@ -19,13 +19,13 @@
 
 #### Architecture Governance
 - The practice and orientation by which Enterprise Architectures and other architectures are managed and controlled
-- Levels of Governance
-   - Corporate Governance
-   - Technology Governance (how an organization utilizes technology in its services)
-   - IT Governance (TOGAF suggests COBIT framework - Control OBjectives for Information and related Technology)
-   - Architecture Governance (how architectures are managed and controlled within enterprise)
-- Characteristics of Governance (***DTIARF***)
-   - Discipline (D), Transparency (T), Independence (I), Accountability (A), Responsibility (R), Fairness (F)
+- Characteristics or Principles of Good Governance 
+   - ***DTIARF***- ***Discipline*** (D), ***Transparency*** (T), ***Independence*** (I), ***Accountability*** (A), ***Responsibility*** (R), ***Fairness*** (F)
+- Levels of Governance (***CTIA***)
+   - ***Corporate (C)*** Governance
+   - ***Technology Governance (T)*** - how an organization utilizes technology in its services
+   - ***IT Governance (I)*** - TOGAF suggests COBIT framework - Control OBjectives for Information and related Technolog
+   - ***Architecture Governance (A)*** (how architectures are managed and controlled within enterprise)
 
 #### Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures

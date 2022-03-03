@@ -15,6 +15,14 @@
    | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
    | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | It is business-driven and business-led and combines the requisite efforts of all lines of business to achieve the desired capability |
 
+#### Architecture Development Approaches
+- ***Baseline First or Bottom-Up Approach*** 
+  - This process is most suitable when the baseline is complex, not clearly understood, or agreed upon
+  - This approach is common where organizational units have had a high degree of autonomy
+- ***Target First or Top-Down Approach*** 
+  - This process is suitable when a target state is agreed at a high level and where the enterprise wishes to effectively transition to the target model. 
+  - Typically, if the baseline is broadly understood a higher value will be obtained focusing on the target first then baseline to the extent necessary to identify changes
+ 
 #### Risk Management
 - There are two levels of risk-
    - ***Initial Level of Risk***: risk categorization prior to determining and implementing mitigating actions
@@ -37,11 +45,14 @@
    | ***Rationale*** | Should highlight the business benefits of adhering to the principle, using business terminology |
    | ***Implications*** | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
-#### Stakeholder Management
-- Identify Stakeholders
-- Classify Stakeholder Positions
-- Determine Stakeholder Management Approach
-- Tailor Engagement Deliverables 
+#### Stakeholder Management Approach (ICDT)
+- ***Identify*** Stakeholders
+- ***Classify*** Stakeholder Positions
+- ***Determine*** Approach for Stakeholder Management
+- ***Tailor*** Engagement Deliverables 
+- Exampleof power/interest matrix
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/24_stakeholder_grid.png" width="400"></p>
 
 #### Interoperability Requirements
 - Architecture Vision (Phase A), the nature and security considerations of the information and service exchanges are first ***Revealed within the business scenarios***
@@ -53,20 +64,18 @@
 - Migration Planning (Phase F), the ***Interoperability is logically implemented***
 
 #### Business Transformation Readiness Assessment (BTRP)
-- Determine the readiness factors that will impact the organization
-- Present the readiness factors using maturity models
-- Assess the readiness factors, including determination of readiness factor ratings
-- Assess the risks for each readiness factor and identify improvement actions to mitigate the risk
-- Work these actions into Phase E and F Implementation and Migration Plan
+- ***Determine*** the Readiness Factors that will impact the organization
+- ***Present*** the Readiness Factors using maturity models
+- ***Assess*** the Readiness Factors, including determination of readiness factor ratings
+- ***Assess the Risks*** for each readiness factor and ***Identify Improvement Actions*** to mitigate the risk
+- Work these actions into ***Phase E-F*** Implementation and Migration Plan
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
 
 #### Business Scenerios
-- ***Business Scenerios used at Phase A- Vision***
-- TOGAF Library contains the specification for Business Scenerios
-
-<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
-
+- ***Business Scenerios*** used at Phase A-B
+- A key factor in the success of an enterprise architecture is the extent to which it is linked to business requirements
+- Business Scenerios is a nealy laid out business case. TOGAF Library contains Business Scenerios specification 
 - A Business Scenario describes: 
    - A business process, application, or set of applications, that can be enabled by the architecture (***Process***)
    - The business and technology environment (***Platform***)
@@ -80,37 +89,10 @@
       - Providing the basis for determining elements and plans for the solution
     - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
     - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
+- Creating a business scenario involves the following steps
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/26_busscen1.png" width="500"></p>
 
 #### Migration Planning
 - TOGAF suggests a number of techniques used to support migration planning in Phases E and F
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/migration-planning.png" width="2000"></p>
-
-#### Key Definitions
-- ***Organizational Model*** for EA provides information on the organization, roles, and responsibilities within the enterprise. It includes
-   - Scope of organizations impacted
-   - Maturity assessment, gaps, and resolution approach
-   - Roles and responsibilities for architecture team(s)
-   - Constraints on architecture work
-   - Budget requirements
-   - Governance and support strategy
-- An ***Architecture Description*** is a work product used to express an architecture; a collection of architecture views and models that together document the architecture
-- ***Stakeholders*** are individuals, teams, organizations, or classes thereof, having an interest in a system
-- ***Concerns*** are interests in a system relevant to one or more of its stakeholders. Concerns may pertain to any aspect of the system's functioning, development, or operation, including considerations such as performance, reliability, security, distribution, and evolvability and may determine the acceptability of the system
-- An ***Architecture View*** is a representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system.  TOGAF encourages these steps for ***Architecture View*** creation process
-   1. Refer to an existing library of architecture viewpoints
-   2. Select the appropriate architecture viewpoints (based on the stakeholders and concerns that need to be covered by views)
-   3. Generate views of the system by using the selected architecture viewpoints as templates
-
-- An ***Architecture Viewpoint*** is a specification of the conventions for a particular kind of architecture view. It establishes the conventions for constructing, interpreting, and using an architecture view to address a specific concern (or set of concerns) about a system-of-interest. 
-   - An ***Architecture View*** is what you see; an ***Architecture Viewpoint*** is where you are looking from that determines what you see
-   - ***Architecture Viewpoints*** are generic, and can be stored in libraries for re-use; an ***Architecture View*** is always specific to the architecture
-   - Every ***Architecture View*** has an associated ***Architecture Viewpoint*** that describes it, at least implicitly  
-   - ***Example***
-      - Consider two stakeholders in a new small computing system: the ***Users*** and the ***Developer***
-      - The ***Users*** have an ***Architecture Viewpoint*** that reflects their concerns when interacting with the system
-      - The ***Developers*** have a different ***Architecture Viewpoint*** that reflects their concerns when interacting with the system
-      - The ***User Architecture Viewpoint*** doesn't include any details such as applications or Database Management Systems (DBMS)
-      - The ***Developer Architecture Viewpoint*** doesn't include things such as actual live data and connections with consumers
-      - The ***Architecture Views*** that are developed to address either of the two ***Architecture Viewpoints*** are unlikely to exhaustively describe the whole system, because each perspective reduces how each sees the system
-      - However, there are things that are shared, such as descriptions of the processes that are enabled by the system and/or communications protocols set up for users to communicate problems directly to development

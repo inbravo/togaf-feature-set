@@ -37,15 +37,12 @@
 - Defines building blocks specific to a ***Generic problem domain***
 - Contains ***Industry-specific*** logical data and process models
 - Contains ***Industry-specific*** applications and process models, as well as industry-specific business rules
-- Provides guidelines for testing collections of systems
-- Encourages levels of interoperability throughout the industry
 
 #### Organization-Specific Architectures
 - Provides a means to communicate and manage business operations across all four architectural domains
 - Reflects requirements specific to a ***Particular enterprise***
 - Defines building blocks specific to a ***Particular enterprise***
 - Contains ***Organization-specific*** business models, data, applications, and technologies
-- Provides a means to encourage implementation of appropriate solutions to meet business needs
 - Provides the criteria to measure and select appropriate products, solutions, and services
 - Provides an evolutionary path to support growth and new business needs
 
