@@ -120,3 +120,16 @@
     - System management checklists
     - System engineering checklists
     - Methods and tools checklists
+
+### Implementation and Migration Plan
+- The Implementation and Migration Plan provides a schedule of the projects that will realize the Target Architecture. It includes
+  - Implementation and Migration Strategy:
+    - Strategic implementation direction
+    - Implementation sequencing approach
+  - Project and portfolio breakdown of implementation:
+    - Allocation of work packages to project and portfolio
+    - Capabilities delivered by projects
+    - Milestones and timing
+    - Work breakdown structure
+    - May include impact on existing portfolio, program, and projects
+  - Project charters (optional) 
