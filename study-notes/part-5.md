@@ -57,11 +57,7 @@
    - Appropriate processes, roles, and responsibilities attached to each grouping
 
 ##### Architecture Partitioning Activities in Preliminary Phase
-- There are 4 dimensions in which Architecture Acivity Scope may be limited for
-   -  Breadth
-   -  Depth
-   -  Time Period
-   -  Architecture Domains
+- There are 4 dimensions in which Architecture Acivity Scope is limited (***BDAT- Breadth, Depth, Architecture Domains, Time Period***)
 - Determine the organization structure for architecture within the enterprise
 - Determine the responsibilities for each standing architecture team
 - Determine the relationships between architectures
