@@ -106,3 +106,17 @@
   - ***Architecture Maturity Assessment***- What is the capability and maturity of the architecture function within the enterprise
   - ***Business Transformation Readiness Assessment***- Where capability gaps exist, to what extent is the business ready to transform in order to reach the target capability
  
+### Compliance Assessment
+- Once an architecture has been defined, it is necessary to govern that architecture through implementation to ensure that the original Architecture Vision is appropriately realized
+- Periodic compliance reviews of implementation projects provide a mechanism to review project progress and ensure that the design and implementation is proceeding in line with the strategic and architectural objectives. It includes
+  - Overview of project progress and status
+  - Overview of project architecture/design
+  - Completed architecture checklists:
+    - Hardware and operating system checklist
+    - Software services and middleware checklist
+    - Applications checklists
+    - Information management checklists
+    - Security checklists
+    - System management checklists
+    - System engineering checklists
+    - Methods and tools checklists
