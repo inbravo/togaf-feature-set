@@ -61,11 +61,8 @@
 - The ARS provides a ***Quantitative View of the Solution***, stating measurable criteria that must be met during the implementation. ARS Contains
   - Success measures
   - Architecture requirements
-  - Business service contracts
-  - Application service contracts
-  - Implementation guidelines
-  - Implementation specifications
-  - Implementation standards
+  - Business service contracts and Application service contracts
+  - Implementation guidelines, specifications and standards
   - Interoperability requirements
   - IT Service Management requirements
   - Constraints
@@ -81,14 +78,14 @@
     - Relationship to opportunity
     - Relationship to Architecture Definition Document and Architecture Requirements Specification
     - Business value
-  - Implementation Factor Assessment and Deduction matrix, including:
+  - Implementation Factor Assessment and Deduction matrix (IFADM), including:
     - Risks
     - Issues
     - Assumptions
     - Dependencies
     - Actions
     - Inputs
-  - Consolidated Gaps, Solutions, and Dependencies matrix, including:
+  - Consolidated Gaps, Solutions, and Dependencies matrix (COGASODE), including:
     - Architecture domain
     - Gap
     - Potential solutions
