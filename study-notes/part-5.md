@@ -49,6 +49,25 @@
 - Provides the criteria to measure and select appropriate products, solutions, and services
 - Provides an evolutionary path to support growth and new business needs
 
+#### Architecture Partitioning
+- It is valuable to partition and organize the Enterprise Continuum into a set of related solutions and architectures with:
+   - Manageable complexity for each individual architecture or solution
+   - Defined groupings
+   - Defined hierarchies and navigation structures
+   - Appropriate processes, roles, and responsibilities attached to each grouping
+
+##### Architecture Partitioning Activities in Preliminary Phase
+- There are 4 dimensions in which Architecture Acivity Scope may be limited for
+   -  Breadth
+   -  Depth
+   -  Time Period
+   -  Architecture Domains
+- Determine the organization structure for architecture within the enterprise
+- Determine the responsibilities for each standing architecture team
+- Determine the relationships between architectures
+
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/40_partitioning5.png" width="700"></p>
+
 #### Architecture Repository
 - Operating a mature Architecture Capability within a large enterprise creates a huge volume of architectural output 
 - Effective management and leverage of these architectural work products require a formal taxonomy
