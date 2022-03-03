@@ -118,18 +118,8 @@
     - Relationship to opportunity
     - Relationship to Architecture Definition Document and Architecture Requirements Specification
     - Business value
-  - Implementation Factor Assessment and Deduction matrix (IFADM), including:
-    - Risks
-    - Issues
-    - Assumptions
-    - Dependencies
-    - Actions
-    - Inputs
-  - Consolidated Gaps, Solutions, and Dependencies matrix (COGASODE), including:
-    - Architecture domain
-    - Gap
-    - Potential solutions
-    - Dependencies
+  - ***Implementation Factor Assessment and Deduction matrix*** (IFADM), including (Risks, Issues, Assumptions, Dependencies, Actions, Inputs)
+  - ***Consolidated Gaps, Solutions, and Dependencies matrix*** (COGASODE), including (Architecture domain, Gap, Potential solutions,  Dependencies)
   - Any Transition Architectures
   - Implementation recommendations:
     - Criteria measures of effectiveness of projects
