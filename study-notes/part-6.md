@@ -13,8 +13,8 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
 
 #### Architecture Capability
-- It is an evaludation of your ability to define Enterprise Architecture
-- In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate organization structures, processes, roles, responsibilities, and skills to realize the Architecture Capability
+- It is an evaluation of your ability to define Enterprise Architecture
+- In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate ***organization structures, processes, roles, responsibilities, and skills*** to realize the Architecture Capability
 - Ability to estabilish the **Architecture Contract** is also the part of the Architecture Capability
 
 #### Architecture Governance
