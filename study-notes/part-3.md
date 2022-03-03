@@ -13,7 +13,7 @@
    | [Interoperability Requirements](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | ***ALL***  | Defining the degree to which the information and services are to be shared  |
    | [Business Transformation Readiness Assessment (BRTP)](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) | ***Phases B-C-D***  |Used in  ***Capability Assessment***   |
    | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
-   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | Often the need for these capabilities are discovered and refined using business scenarios |
+   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | It is business-driven and business-led and combines the requisite efforts of all lines of business to achieve the desired capability |
 
 #### Risk Management
 - There are two levels of risk-
