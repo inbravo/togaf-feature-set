@@ -69,7 +69,7 @@
   - Reference to Draft Architecture Definition Document
 
 ### Business Principles, Business Goals, and Business Drivers
-- Business principles, business goals, and business drivers provide context for architecture work, by describing the needs and ways of working employed by the enterprise. Many factors that lie outside the consideration of architecture discipline may nevertheless have significant implications for the way that architecture is developed.
+- Business principles, business goals, and business drivers provide ***Context for Architecture Work***, by describing the ways of working employed by the enterprise 
 
 ### Architecture Contract
 - Architecture Contracts are the joint agreements between ***Development Partners and Sponsors*** on the deliverables, quality, and fitness-for-purpose of an architecture
@@ -98,7 +98,7 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/02_concepts2.png" width="700"></p>
 
 ### Architecture Requirements Specification (ARS)
-- The ARS provides a ***Quantitative View of the Solution***, stating measurable criteria that must be met during the implementation. ARS Contains
+- The ARS provides a ***Quantitative View of the Solution***, stating measurable criteria for implementation. ARS Contains
   - Success measures
   - Architecture requirements
   - Business service contracts and Application service contracts
@@ -134,8 +134,8 @@
   - ***Business Transformation Readiness Assessment***- Where capability gaps exist, to what extent is the business ready to transform in order to reach the target capability
  
 ### Compliance Assessment
-- Once an architecture has been defined, it is necessary to govern that architecture through implementation to ensure that the original Architecture Vision is appropriately realized
-- Periodic compliance reviews of implementation projects provide a mechanism to review project progress and ensure that the design and implementation is proceeding in line with the strategic and architectural objectives. It includes
+- It is necessary to govern that architecture during implementation to ensure that the original Architecture Vision is appropriately realized
+- Periodic compliance reviews of implementation projects provide a mechanism to review project progress and ensure that the design and implementation is in line with the strategic and architectural objectives. It includes
   - Overview of project progress and status
   - Overview of project architecture/design
   - Completed architecture checklists:
