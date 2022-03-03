@@ -73,11 +73,9 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
 
 #### Business Scenerios
-- ***Business Scenerios used at Phase A- Vision***
-- TOGAF Library contains the specification for Business Scenerios
-
-<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/business-scenerios.png" width="2000"></p>
-
+- ***Business Scenerios*** used at Phase A-B
+- A key factor in the success of an enterprise architecture is the extent to which it is linked to business requirements
+- The objective of Business Scenerios is to let anyone understand a business problem by reading it. TOGAF Library contains Business Scenerios specification 
 - A Business Scenario describes: 
    - A business process, application, or set of applications, that can be enabled by the architecture (***Process***)
    - The business and technology environment (***Platform***)
@@ -91,6 +89,8 @@
       - Providing the basis for determining elements and plans for the solution
     - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
     - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
+- Creating a business scenario involves the following steps
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/26_busscen1.png" width="500"></p>
 
 #### Migration Planning
 - TOGAF suggests a number of techniques used to support migration planning in Phases E and F
