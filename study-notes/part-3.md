@@ -64,10 +64,10 @@
 - Migration Planning (Phase F), the ***Interoperability is logically implemented***
 
 #### Business Transformation Readiness Assessment (BTRP)
-- Determine the readiness factors that will impact the organization
-- Present the readiness factors using maturity models
-- Assess the readiness factors, including determination of readiness factor ratings
-- Assess the risks for each readiness factor and ***Identify Improvement Actions*** to mitigate the risk
+- ***Determine*** the Readiness Factors that will impact the organization
+- ***Present*** the Readiness Factors using maturity models
+- ***Assess*** the Readiness Factors, including determination of readiness factor ratings
+- ***Assess the Risks*** for each readiness factor and ***Identify Improvement Actions*** to mitigate the risk
 - Work these actions into ***Phase E-F*** Implementation and Migration Plan
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
