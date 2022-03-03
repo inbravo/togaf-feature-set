@@ -10,14 +10,6 @@
   
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/19_adm_iteration.png" width="400"></p>
 
-### Approaches to Architecture Development
-- ***Baseline First or Bottom-Up Approach*** 
-  - This process is most suitable when the baseline is complex, not clearly understood, or agreed upon
-  - This approach is common where organizational units have had a high degree of autonomy
-- ***Target First or Top-Down Approach*** 
-  - This process is suitable when a target state is agreed at a high level and where the enterprise wishes to effectively transition to the target model. 
-  - Typically, if the baseline is broadly understood a higher value will be obtained focusing on the target first then baseline to the extent necessary to identify changes
-
 ### TOGAF ADM Stages Objectives, Input, Output and Steps ([Mind Maps](adm-stages-steps.md))
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-objective.png" width="2000"></p>
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-input.png" width="2000"></p>
