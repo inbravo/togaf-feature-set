@@ -67,3 +67,16 @@
 - ***Critical Success Factors*** (CSFs) should be established to define success for a project and/or project increment
 - ***Measures of Effectiveness*** (MOE) are often performance criteria and many corporations include them in the CSFs
 - ***Strategic Fit*** based upon the overall Enterprise Architecture (all tiers) will be the critical factor for allowing the approval of any new project or initiative and for determining the value of any deliverable
+
+#### The Drivers for Change in Change Management Stage (Phase H)
+- There are many technology-related drivers for architecture change requests. For example:
+  - New technology reports
+  - Asset management cost reductions
+  - Technology withdrawal
+  - Standards initiatives
+- In addition there are business drivers for architecture change, including:
+  - Business-as-usual developments
+  - Business exceptions
+  - Business innovations
+  - Business technology innovations
+  - Strategic change
