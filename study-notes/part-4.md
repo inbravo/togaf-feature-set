@@ -133,3 +133,11 @@
     - Work breakdown structure
     - May include impact on existing portfolio, program, and projects
   - Project charters (optional) 
+
+### Implementation Governance Model
+- Once an architecture has been defined, it is necessary to plan how the Transition Architecture that implements the architecture will be governed through implementation
+- Implementation Governance Model includes
+  - Governance processes
+  - Governance organization structure
+  - Governance roles and responsibilities
+  - Governance checkpoints and success/failure criteria
