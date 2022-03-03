@@ -49,7 +49,11 @@
   - The ***Developers Architecture Viewpoint*** reflects their concerns when interacting with the system
     - The ***Developer Architecture Viewpoint*** doesn't include things such as actual live data and customer interaction
   - However, there are things that are shared, such as communications protocols etc. between both the viewpoints
-     
+
+### Interactions between Metamodel, Building Blocks, Diagrams, and Stakeholders
+- The TOGAF content framework defines a set of architecture diagrams to address stakeholder concerns
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/34_contentfwk3.png" width="700"></p>
+
 ## Deliverable Descriptions
 
 ### Architecture Vision
