@@ -15,6 +15,17 @@
    | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
    | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | Often the need for these capabilities are discovered and refined using business scenarios |
 
+#### Risk Management
+- There are two levels of risk-
+   - ***Initial Level of Risk***: risk categorization prior to determining and implementing mitigating actions
+   - ***Residual Level of Risk***: risk categorization after implementation of mitigating actions (if any)
+- The process for risk management is -
+   - Risk classification
+   - Risk identification
+   - Initial risk assessment
+   - Risk mitigation and residual risk assessment
+   - Risk monitoring
+
 #### Principles
 - Principles are general rules and guidelines, intended to be ***enduring and seldom amended***
 - Recommended template for Principles
