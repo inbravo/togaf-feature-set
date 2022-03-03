@@ -52,4 +52,5 @@
 - ***Non-conformant***-Some features in the architecture specification are implemented not in accordance with the specification
 
 #### Architecture Compliance Review Process
+- Architecture compliance review is done at ***Phase G- Implementation Governance***
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/48_review.png" width="700"></p>
