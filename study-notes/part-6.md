@@ -12,6 +12,17 @@
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
 
+####  Use of ADM to Establish an Architecture Capability
+- The establishment of an Architecture Capability can be supported by the TOGAF ADM
+- ADM is an ideal method to be used to architect and govern the implementation of architecture capability 
+
+|   Domain   |  Architecture Capability    |  
+| ----------- | ----------- | 
+| Business Architecture  | Architecture Governance, architecture processes, architecture organizational structure, architecture information requirements, architecture products, etc. | 
+| Data Architecture | Structure of the organization's Enterprise Continuum and Architecture Repository |
+| Application Architecture | Specifying the functionality and/or applications services required to enable the architecture practice |
+| Technology Architecture | Architecture practice's infrastructure requirements and deployment in support of the architecture applications and Enterprise Continuum |
+
 #### Architecture Capability
 - It is an evaluation of your ability to define Enterprise Architecture
 - In order to successfully operate an architecture function within an enterprise, it is necessary to put in place appropriate ***organization structures, processes, roles, responsibilities, and skills*** to realize the Architecture Capability
