@@ -58,3 +58,11 @@ A discipline -
 6. ***Architecture Capability Framework*** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/01_structure.png" width="700"></p>
+
+#### Structure of the TOGAF Library
+- The TOGAF Library is maintained under the governance of The Open Group Architecture Forum
+- Library resources are organized into four sections:
+   - Section 1. Foundation Documents
+   - Section 2. Generic Guidance and Techniques
+   - Section 3. Industry-Specific Guidance and Techniques
+   - Section 4. Organization-Specific Guidance and Techniques
