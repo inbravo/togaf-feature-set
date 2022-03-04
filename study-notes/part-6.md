@@ -79,6 +79,6 @@
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/48_review.png" width="700"></p>
 
 #### Governance repository Areas of Information
-- **Reference Data** (collateral from the organization's own repositories/Enterprise Continuum, including external data; e.g., COBIT, the IT4IT Reference Architecture)
+- **Reference Data** (collateral from the organization's own repositories/Enterprise Continuum, including external data; e.g., COBIT, IT4IT)
 - **Process Status**: all information regarding the state of any governance processes will be managed
 - **Audit Information**: this will record all completed governance process actions and will be used to support
