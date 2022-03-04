@@ -33,8 +33,8 @@ A discipline -
  #### Architecture
  - ISO/IEC/IEEE 42010:2011 definition: 
    - _**The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution**._
-- TOGAF definition: 
-   - _**The structure of components, their inter-relationships, and the principles and guidelines governing their design and evolution over time**._
+- TOGAF definition: (***SCIRPG***)
+   - _**The Structure of Components, their Inter-Relationships, and the Principles and Guidelines governing their design and evolution over time**._
 
 #### TOGAF Standard
 - A Customer Initiative based on the ***Technical Architecture Framework for Information Management*** (TAFIM from US DoD)
