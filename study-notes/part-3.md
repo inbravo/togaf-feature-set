@@ -75,7 +75,7 @@
 #### Business Scenerios
 - ***Business Scenerios*** used at Phase A-B
 - A key factor in the success of an enterprise architecture is the extent to which it is linked to business requirements
-- Business Scenerios is a nealy laid out business case. TOGAF Library contains Business Scenerios specification 
+- **Business Scenerio is a technique for discovering the need for a capability**
 - A Business Scenario describes: 
    - A business process, application, or set of applications, that can be enabled by the architecture (***Process***)
    - The business and technology environment (***Platform***)
