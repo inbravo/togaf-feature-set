@@ -47,7 +47,14 @@
    -  **Monitoring and Reporting** to ensure that both the operational and service elements are managed against an agreed set of criteria
    -  **Business Control** relates to the processes invoked to ensure compliance with the organization's business policies
    -  **Environment Management** to ensure that the repository-based environment underpinning the governance framework is effective and efficient 
- 
+-  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
+- **Content types** 
+   -  **Requirements**
+   -  **SLA and OLA**
+   -  **Authority Structure** 
+   -  **Organizational Standards**
+   -  **Solutions**
+   -  **Architectures**
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_concepts.png" width="700"></p>
 
 - An Architecture Governance structure for will typically include Global governance board, Local governance board, Design authorities and Working parties
