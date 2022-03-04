@@ -40,6 +40,7 @@
 
 #### Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity of architectures
+- **Context** includes Drivers (business, technology, regulatory) and Organizational form
 -  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
    -  **Policy Management and Take-On** a formal process in order to register, validate, ratify, manage, and publish new or updated architecture content
    -  **Compliance assessments** against Service-Level Agreements (SLAs), OLAs, standards, and regulatory requirements
