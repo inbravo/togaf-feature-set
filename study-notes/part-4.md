@@ -28,6 +28,8 @@
 
 ### ***Architecture View*** 
 - A representation of a system from the perspective of a related set of concerns. It consists of one or more architecture models of the system  
+- Architecture views are representations of the overall architecture meaningful to stakeholders
+- Architecture views enable the architecture to be ***Communicated*** to and ***Understood*** by the stakeholders, and ***Verify*** that the system will address their concerns 
 - TOGAF encourages these steps for ***Architecture View*** creation process
   - ***Refer to an existing library*** of architecture viewpoints
   - ***Select the appropriate architecture viewpoints*** (based on the stakeholders and concerns that need to be covered by views)
@@ -35,8 +37,7 @@
 
 ### ***Architecture Viewpoint*** 
 - A specification for a particular kind of architecture view
-- Architecture views are representations of the overall architecture meaningful to stakeholders
-- Architecture views enable the architecture to be communicated to and understood by the stakeholders, and verify that the system will address their concerns 
+- More specifically, a viewpoint defines: how to construct and use a view (by means of an appropriate schema or template)
 
 ### Relationship Between ***Architecture View*** and ***Architecture Viewpoint*** 
 - An ***Architecture View*** is what you see; an ***Architecture Viewpoint*** is where you are looking from that determines what you see
