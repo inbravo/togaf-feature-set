@@ -59,7 +59,14 @@ A discipline -
 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/01_structure.png" width="700"></p>
 
-#### Structure of the TOGAF Library
+#### Bsiness Imperatives behind the Requirements for Architecture Work
+- Business requirements
+- Cultural aspirations
+- Organization intents
+- Strategic intent
+- Forecast financial requirements
+
+#### TOGAF Library
 - The TOGAF Library is maintained under the governance of The Open Group Architecture Forum
 - Library resources are organized into four sections:
    - Section 1. Foundation Documents
