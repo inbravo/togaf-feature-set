@@ -42,21 +42,17 @@
 #### Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity of architectures
 - **Context** includes Drivers (business, technology, regulatory) and Organizational form
--  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
-   -  **Policy Management and Take-On** a formal process in order to register, validate, ratify, manage, and publish new or updated architecture content
-   -  **Compliance assessments** against Service-Level Agreements (SLAs), OLAs, standards, and regulatory requirements
-   -  **Dispensations** where a Compliance Assessment is rejected, an alternate route to meeting interim conformance is provided through dispensations
-   -  **Monitoring and Reporting** to ensure that both the operational and service elements are managed against an agreed set of criteria
-   -  **Business Control** relates to the processes invoked to ensure compliance with the organization's business policies
-   -  **Environment Management** to ensure that the repository-based environment underpinning the governance framework is effective and efficient 
--  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
-- **Content types** 
-   -  **Requirements**
-   -  **SLA and OLA**
-   -  **Authority Structure** 
-   -  **Organizational Standards**
-   -  **Solutions**
-   -  **Architectures**
+ 
+   |   **Processes**   |  **Content types**    |  
+   | ----------- | ----------- | 
+   |  Policy Management and Take-On |  Requirements |
+   |  Compliance assessments |   SLA and OLA |
+   |  Dispensations |  Authority Structure |
+   |  Monitoring and Reporting  |  Organizational Standards |
+   |  Business Control  |  Solutions |
+   |  Environment Management     |  Architectures |
+
+ 
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_concepts.png" width="700"></p>
 
 - An Architecture Governance structure for will typically include Global governance board, Local governance board, Design authorities and Working parties
