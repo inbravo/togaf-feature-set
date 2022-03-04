@@ -31,9 +31,9 @@ A discipline -
    - Avoids the initial panic when the scale of the task becomes apparent and provides a starting point for an architecture project
  
  #### Architecture
- - ISO/IEC/IEEE 42010:2011 definition: 
-   - _**The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution**._
-- TOGAF definition: (***SCIRPG***)
+ - ISO/IEC/IEEE 42010:2011 definition: (***FCPSEEERP***)
+   - _**The Fundamental Concepts or Properties of a System in its Environment Embodied in its Elements, Relationships, and in the Principles of its design and evolution**._
+- TOGAF definition: (***SCIRP&G***)
    - _**The Structure of Components, their Inter-Relationships, and the Principles and Guidelines governing their design and evolution over time**._
 
 #### TOGAF Standard
