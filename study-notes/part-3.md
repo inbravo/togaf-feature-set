@@ -81,7 +81,7 @@
    - The business and technology environment (***Platform***)
    - The people and computing components (called "actors") who execute the scenario (***People***)
    - The desired outcome of proper execution (***Results***)
-- A good Business Scenario is also ***SMART***
+- A good Business Scenario is also ***SMART*** - ***SpeMea Act Real Time***
    - ***Specific***, by defining what needs to be done in the business
    - ***Measurable***, through clear metrics for success
    - ***Actionable***, by
