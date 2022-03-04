@@ -39,8 +39,8 @@
    - ***Architecture Governance (A)*** (how architectures are managed and controlled within enterprise)
 
 #### Architecture Governance Framework
-- An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures
-   -  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
+- An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity of architectures
+-  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
    -  **Policy Management and Take-On** a formal process in order to register, validate, ratify, manage, and publish new or updated architecture content
    -  **Compliance assessments** against Service-Level Agreements (SLAs), OLAs, standards, and regulatory requirements
    -  **Dispensations** where a Compliance Assessment is rejected, an alternate route to meeting interim conformance is provided through dispensations
