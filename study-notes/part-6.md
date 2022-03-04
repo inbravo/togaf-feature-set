@@ -40,6 +40,13 @@
 
 #### Architecture Governance Framework
 - An approach, a series of processes, a cultural orientation, and set of owned responsibilities that ensure the integrity and effectiveness of the organization's architectures
+   -  **Architecture Governance Processes** to identify, manage, audit, and disseminate all information related to architecture management
+   -  **Policy Management and Take-On** a formal process in order to register, validate, ratify, manage, and publish new or updated architecture content
+   -  **Compliance assessments** against Service-Level Agreements (SLAs), OLAs, standards, and regulatory requirements
+   -  **Dispensations** where a Compliance Assessment is rejected, an alternate route to meeting interim conformance is provided through dispensations
+   -  **Monitoring and Reporting** to ensure that both the operational and service elements are managed against an agreed set of criteria
+   -  **Business Control** relates to the processes invoked to ensure compliance with the organization's business policies
+   -  **Environment Management** to ensure that the repository-based environment underpinning the governance framework is effective and efficient 
  
 <p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_concepts.png" width="700"></p>
 
