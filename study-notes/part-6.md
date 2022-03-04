@@ -14,6 +14,7 @@
 
 ####  Use of ADM to Establish an Architecture Capability
 - The establishment of an Architecture Capability can be supported by the TOGAF ADM
+- **Estabilished in ADM Preliminary Phase and Operated in Phase G-H**
 - ADM is an ideal method to be used to architect and govern the implementation of architecture capability 
 
 |   Domain   |  Architecture Capability    |  
