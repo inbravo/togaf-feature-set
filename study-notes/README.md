@@ -2,6 +2,10 @@
 
 ## Part 2 - TOGAF Architecture Development Method (ADM)
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
+
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-intro.png" width="2000"></p>
+
+### ADM Iterations
 - TOGAF includes multiple phases to develop various architectures using following iterations
   - ***Architecture Capability (AC) Iteration*** 
   - ***Architecture Development (AD) Iteration*** 
