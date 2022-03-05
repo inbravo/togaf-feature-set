@@ -73,7 +73,7 @@
 - Business principles, business goals, and business drivers provide ***Context for Architecture Work***, by describing the ways of working employed by the enterprise 
 
 ### Architecture Contract
-- Architecture Contracts are the joint agreements between ***Development Partners and Sponsors*** on the deliverables, quality, and fitness-for-purpose of an architecture
+- Architecture Contracts are the joint agreements between ***Development Partners and Sponsors (DPS)*** on the deliverables, quality, and fitness-for-purpose of an architecture
 
 ### Architecture Definition Document (ADD)
 - The ADD provides a ***Qualitative View of the Solution*** and aims to communicate the intent of the architects. ADD contains
