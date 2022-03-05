@@ -2,6 +2,10 @@
 
 ## Part 2 - TOGAF Architecture Development Method (ADM)
 - TOGAF ADM is a compresensive method of enterprise architecture (EA) development, based on the best practices 
+
+<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/adm-intro.png" width="1500"></p>
+
+### ADM Iterations
 - TOGAF includes multiple phases to develop various architectures using following iterations
   - ***Architecture Capability (AC) Iteration*** 
   - ***Architecture Development (AD) Iteration*** 
@@ -59,3 +63,16 @@
 - ***Critical Success Factors*** (CSFs) should be established to define success for a project and/or project increment
 - ***Measures of Effectiveness*** (MOE) are often performance criteria and many corporations include them in the CSFs
 - ***Strategic Fit*** based upon the overall Enterprise Architecture (all tiers) will be the critical factor for allowing the approval of any new project or initiative and for determining the value of any deliverable
+
+#### The Drivers for Change in Change Management Stage (Phase H)
+- Technology-related drivers for architecture change requests:
+  - New technology reports
+  - Asset management cost reductions
+  - Technology withdrawal
+  - Standards initiatives
+- Business drivers for architecture change:
+  - Business-as-usual developments
+  - Business exceptions
+  - Business innovations
+  - Business technology innovations
+  - Strategic change
