@@ -1,5 +1,12 @@
 # Part 2 - Exam Helpful Notes
 
+## Architecture Maturity and Skills Framework
+
+| ## |   **Option**   |  **Recommendation**    |  
+| ----------- | ----------- | ----------- | 
+| 1 | You recommend conducting an Architecture Maturity Assessment as this will identify the practices on which the company should focus to see the greatest improvement. You also recommend that a skills framework be introduced, based on that of the TOGAF Architecture Skills Framework. This will provide a clear definition of skills and proficiency levels for roles within the team. | This answer is ***best because it examines the Enterprise Architecture using a technique explicitly designed for assessing process improvement*** for Enterprise Architectures. Second, ***it focuses on assessing the skill levels of the staff by creating an organization specific skills inventory***. |
+| 2 | You recommend developing an automated skills assessment tool based on the TOGAF Skills Framework. The tool will provide a rapid means of identifying skills and gaps. The results from running the tool can then be used to determine the training and development needs of the Enterprise Architecture team members and also used when recruiting new team members. | This answer is ***less correct, as it only examines the staff skill levels*** |
+| 3 | You would ensure that the IT vision, principles, business linkages, Baseline, and Target Architectures are identified and that a set of architecture standards are being followed. You would recommend that the senior management team are briefed regularly and support the Enterprise Architecture processes. You would ensure that performance metrics associated with the Enterprise Architecture practice are captured and analyzed regularly.  | This answer is ***less correct because it focuses on specific actions to address improving the architecture processes***, but ***lacks application of any techniques to evaluate the processes***. It ***also fails to address staff skills.*** |
 
 ## Architecture Compliance Review
 
