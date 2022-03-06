@@ -1,5 +1,14 @@
 # Part 2 - Exam Helpful Notes
 
+
+## Architecture Compliance Review
+
+| ## |   **Option**   |  **Recommendation**    |  
+| ----------- | ----------- | ----------- | 
+| 1 | You assign the lead Enterprise Architect to coordinate the review. You request that she assemble a team of business and domain experts to conduct the interviews for the review. She should review the checklists that the team has prepared for the interviews to ensure they meet the criteria for the program and the business objectives. She should analyze the completed checklists. The responses to the interviews should then be compiled into a formal report together with recommendations | This is the best answer. It is most appropriate to the situation. It is a large-scale project and the Enterprise Architects have been heavily involved. ***In this approach the lead Enterprise Architect coordinates the review and assembles domain experts to manage the reviews***. This ***response includes the mention of checklists and them being reviewed as well*** as a formal report being produced together with recommendations |
+| 2 | You delegate the review to the lead Enterprise Architect. You request that she organizes, leads, and conducts the review. Where possible she should involve the appropriate business domain experts. The review should follow the established 12-step process and deliver an assessment report at completion. The report should be presented at the next Architecture Board meeting for acceptance, review, and sign-off | This answer is ***less correct***. This is a reasonable approach, ***usually best done when the architects are not involved in the project***; however, in this case they are. It ***also omits specific mention of the checklists***. |
+| 3 | You meet with the project architect and check she clearly understands the purpose of the review. You ask her to run a lightweight review process where the architects and team leaders pose a series of questions to themselves highlighting their observations on the performance and scalability of the pilot system. The responses should be aggregated into a report. | This answer is less correct. This ***approach is more suited to smaller-scale projects*** and the informality is not suitable to such an important project. The aggregation of responses to create the report is incorrect. |
+
 ## Risk Assessment
 
 | ## |   **Option**   |  **Recommendation**    |  
