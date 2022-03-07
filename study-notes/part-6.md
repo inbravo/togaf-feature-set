@@ -83,4 +83,4 @@
 - **Process Status**: all information regarding the state of any governance processes will be managed
 - **Audit Information**: this will record all completed governance process actions and will be used to support
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
