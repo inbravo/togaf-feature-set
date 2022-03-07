@@ -82,3 +82,5 @@
 - **Reference Data** (collateral from the organization's own repositories/Enterprise Continuum, including external data; e.g., COBIT, IT4IT)
 - **Process Status**: all information regarding the state of any governance processes will be managed
 - **Audit Information**: this will record all completed governance process actions and will be used to support
+
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
