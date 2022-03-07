@@ -6,3 +6,5 @@
 ## [Part 4 - Architecture Content Framework ](study-notes/part-4.md)
 ## [Part 5 - Enterprise Continuum ](study-notes/part-5.md)
 ## [Part 6 - Architecture Capability Framework ](study-notes/part-6.md)
+
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.

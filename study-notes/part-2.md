@@ -76,3 +76,5 @@
   - Business innovations
   - Business technology innovations
   - Strategic change
+
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.

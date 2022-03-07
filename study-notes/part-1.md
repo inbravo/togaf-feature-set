@@ -73,3 +73,5 @@ A discipline -
    - Section 2. Generic Guidance and Techniques
    - Section 3. Industry-Specific Guidance and Techniques
    - Section 4. Organization-Specific Guidance and Techniques
+
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
