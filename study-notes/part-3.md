@@ -96,3 +96,5 @@
 - TOGAF suggests a number of techniques used to support migration planning in Phases E and F
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/migration-planning.png" width="2000"></p>
+
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
