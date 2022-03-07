@@ -105,4 +105,4 @@
 - Energistics for Petrotechnical
 - Resources, Events, Agents (REA) for accounting system
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
+### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
