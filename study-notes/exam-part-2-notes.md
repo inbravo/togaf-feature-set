@@ -20,8 +20,11 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Architecture Maturity and Skills Framework
 
 You are serving as the Lead Architect for a European Insurance company. The company has grown substantially over the last 15 years. Due to the many mergers and acquisitions, the application portfolio of the enterprise has grown with little consideration for consolidation or rationalization. Each business unit has managed its own applications, with no coordination between them. In the last two years the competition in the insurance industry has increased with the advent of many Internet-based comparison sites leading to increased pressure to reduce the operational expenses including IT.
-An Enterprise Architecture program has been underway within the company to integrate and rationalize the application portfolio and introduce a company-wide customer information management system. A recent review has identified shortcomings within the Enterprise Architecture practice at the company. This has highlighted concerns about the lack of buy-in to the architecture processes and the Enterprise Architecture program. Concerns have also been raised about lack of appropriate staff skills and experience in key roles.
+
+An Enterprise Architecture program has been underway within the company to **integrate and rationalize the application portfolio and introduce a company-wide customer information management system**. A recent review has identified shortcomings within the Enterprise Architecture practice at the company. This has highlighted concerns about the **lack of buy-in to the architecture processes and the Enterprise Architecture program**. **Concerns have also been raised** about **lack of appropriate staff skills and experience** in key roles.
+
 The CIO is the sponsor of the Enterprise Architecture program and the TOGAF standard has been adopted for the architecture method and deliverables. It has been tailored by the Enterprise Architecture team.
+
 The CIO has asked you to recommend an approach to improve the performance of the Enterprise Architecture practice within the company.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -36,9 +39,9 @@ Based on the TOGAF standard, which of the following is the best answer?
 You are serving as the Chief Architect for an online grocer, headquartered in Los Angeles, California. After several years of continued profitable operations, the Board of Directors has approved a strategic plan to expand operations to major cities in the Southwestern United States.
 To realize this strategy, management has an Enterprise Architecture program in place to plan and implement the rollout which is estimated to take five years to complete. The program needs to consider how to take the current organization, physical plant, and information systems and transform them to support expanded operations.
 The TOGAF standard has been adopted as the methodology and framework for the Enterprise Architecture program. The CIO is the sponsor.
-A major concern that must be addressed is how to migrate from a “best-of-breed” logistics system that was built in the early days. It is not expected that this system will be able to scale to support the expanded operations. The CIO recognizes this and has an option to purchase a packaged solution from an industry leader in online sales and fulfillment. One disadvantage of this solution is that the terminology and definitions of its services do not align well to the current Enterprise Architecture.
+A major concern that must be addressed is **how to migrate from a “best-of-breed” logistics system** that was built in the early days. It is not expected that this system will be able to scale to support the expanded operations. The CIO recognizes this and has **an option to purchase a packaged solution from an industry leader** in online sales and fulfillment. One disadvantage of this solution is that **the terminology and definitions of its services do not align well to the current Enterprise Architecture**.
 This is now being piloted in a major fulfillment center in Southern California. It is a large-scale project and members of your Enterprise Architecture team have been deeply involved with the pilot program.
-As part of the pilot program, the Architecture Board has requested a compliance review be held at the fulfilment center to determine the status of the implementation. The timing of the compliance review is such that there is still time to correct any major shortcomings with the proposed solution
+As part of the pilot program, **the Architecture Board has requested a compliance review** be held at the fulfilment center to determine the status of the implementation. The timing of the compliance review is such that there is still time to correct any major shortcomings with the proposed solution
 What approach should you adopt to ensure that the compliance reviews are conducted successfully?
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -51,9 +54,9 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Risk Assessment
 
 You are serving as the Lead Architect in a multi-national company that operates production facilities in 24 countries and sells its products in over 100 countries. It has three sectors: Transportation, Energy Systems, and Automation. Each sector has several business units that operate independently. An Executive Vice-President heads each of the business units. Traditionally, each business unit has acted independently with few shared customers or suppliers. They were expected to share financial and human resource information from the corporate headquarters.
-A consultancy firm has recommended a realignment that will enhance sharing of product information across business units. The implementation of this strategic realignment will require the development of integrated customer information systems and product information systems.
+A consultancy firm has recommended a realignment that will enhance sharing of product information across business units. The implementation of this strategic realignment will require the **development of integrated customer information systems and product information systems**.
 The company has a mature Enterprise Architecture practice and uses the TOGAF standard as the basis for its method and deliverables. An architecture development program has been created to address the development of these capabilities and is about to commence. The Enterprise Architecture program is sponsored by the CIO.
-At the most recent meeting of the Corporate Board, the Chairman of the Board expressed a concern about the risk to the business while a potentially disruptive program is being rolled out across the company. He noted that several competitors had tried similar initiatives with poor results. The Corporate Board agreed that this concern must be satisfactorily addressed before this program can commence.
+At the most recent meeting of the Corporate Board, the Chairman of **the Board expressed a concern about the risk to the business** while a potentially disruptive program is being rolled out across the company. He noted that several competitors had tried similar initiatives with poor results. The **Corporate Board agreed that this concern must be satisfactorily addressed before this program can commence**.
 You have been asked to recommend an approach to address the concerns raised.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -68,8 +71,8 @@ Based on the TOGAF standard, which of the following is the best answer?
 You are serving as a consultant to the Chief Architect of a low-cost airline. The airline was formed in 2002 and has its main base at a major international airport on the east coast of North America. It currently serves 65 destinations in 20 US states, and nine countries in the Caribbean, South America, and Latin America.
 The airline has received approval to acquire a smaller regional carrier that will extend the market it reaches and enable it to feed its primary routes with connecting flights from smaller cities.
 In order to integrate the new acquisition, an Enterprise Architecture program has been initiated, using the TOGAF standard as the method and guiding framework. The CIO is the sponsor of the activity. The Chief Architect has indicated that this program should make use of iteration with the ADM.
-As the program moves into Phase A within the initial iteration of an Architecture Capability cycle, the CIO has emphasized the need to ensure that the architecture is embraced across the enterprise. She noted that past acquisitions have failed to engage the key players, and this needs to be fully addressed.
-You have been asked to explain how you would identify and engage the stakeholders at this stage of the program.
+As the program moves into **Phase A** within the initial iteration of an Architecture Capability cycle, the CIO has emphasized the need to ensure that the **architecture is embraced across the enterpris**e. She noted that **past acquisitions have failed to engage the key players, and this needs to be fully addressed**.
+You have been asked to explain **how you would identify and engage the stakeholders at this stage of the program**.
 Based on the TOGAF standard, which of the following is the best answer?
 
 | ## |   **Option**   |  **Recommendation**    |  
@@ -80,8 +83,8 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## ADM Preliminary Phase
 
 You are serving as the Lead Architect for a European Insurance company. The company has grown substantially over the last 15 years. Due to the many mergers and acquisitions, the application portfolio of the enterprise has grown significantly with little consideration for consolidation or rationalization. Each business unit has managed its own applications, with no coordination between them. In the last two years the competition in the insurance industry has increased with the advent of many Internet-based comparison sites leading to increased pressure to reduce the operational expenses including IT.
-The Corporate Board has approved the directive to establish an Enterprise Architecture program within the company to integrate and rationalize the application portfolio and introduce a company-wide customer information management system. The Corporate Board has also given a strategic direction that the company should expand its markets significantly to cover all the member country states of the European Union in the next 24 months.
-The company has no existing Enterprise Architecture. The CIO is the sponsor of the program and has mandated the TOGAF standard for the architecture method and deliverables. The CIO has established an Architecture Board and called the first meeting.
+The Corporate Board has approved the directive to establish an Enterprise Architecture program within the company to **integrate and rationalize the application portfolio and introduce a company-wide customer information management system**. The Corporate Board has also given a strategic direction that the company should expand its markets significantly to cover all the member country states of the European Union in the next 24 months.
+The **company has no existing Enterprise Architecture**. The CIO is the sponsor of the program and has mandated the TOGAF standard for the architecture method and deliverables. The CIO has established an Architecture Board and called the first meeting.
 You have been asked how you will establish the Enterprise Architecture program.
 Based on the TOGAF standard, which of the following is the best answer?
 
