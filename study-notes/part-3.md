@@ -45,15 +45,6 @@
    | ***Rationale*** | Should highlight the business benefits of adhering to the principle, using business terminology |
    | ***Implications*** | Should highlight the requirements, both for the business and IT, for carrying out the principle |
 
-#### Stakeholder Management Approach (ICDT)
-- ***Identify*** Stakeholders
-- ***Classify*** Stakeholder Positions
-- ***Determine*** Approach for Stakeholder Management
-- ***Tailor*** Engagement Deliverables 
-- Exampleof power/interest matrix
-
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/24_stakeholder_grid.png" width="400"></p>
-
 #### Interoperability Requirements
 - Architecture Vision (Phase A), the nature and security considerations of the information and service exchanges are first ***Revealed within the business scenarios***
 - Business Architecture (Phase B), the information and service exchanges are further ***Defined in business terms***
