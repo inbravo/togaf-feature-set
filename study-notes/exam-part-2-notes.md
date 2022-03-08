@@ -37,10 +37,13 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Architecture Compliance Review
 
 You are serving as the Chief Architect for an online grocer, headquartered in Los Angeles, California. After several years of continued profitable operations, the Board of Directors has approved a strategic plan to expand operations to major cities in the Southwestern United States.
+
 To realize this strategy, management has an Enterprise Architecture program in place to plan and implement the rollout which is estimated to take five years to complete. The program needs to consider how to take the current organization, physical plant, and information systems and transform them to support expanded operations.
 The TOGAF standard has been adopted as the methodology and framework for the Enterprise Architecture program. The CIO is the sponsor.
+
 A major concern that must be addressed is **how to migrate from a “best-of-breed” logistics system** that was built in the early days. It is not expected that this system will be able to scale to support the expanded operations. The CIO recognizes this and has **an option to purchase a packaged solution from an industry leader** in online sales and fulfillment. One disadvantage of this solution is that **the terminology and definitions of its services do not align well to the current Enterprise Architecture**.
 This is now being piloted in a major fulfillment center in Southern California. It is a large-scale project and members of your Enterprise Architecture team have been deeply involved with the pilot program.
+
 As part of the pilot program, **the Architecture Board has requested a compliance review** be held at the fulfilment center to determine the status of the implementation. The timing of the compliance review is such that there is still time to correct any major shortcomings with the proposed solution
 What approach should you adopt to ensure that the compliance reviews are conducted successfully?
 Based on the TOGAF standard, which of the following is the best answer?
@@ -54,8 +57,11 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Risk Assessment
 
 You are serving as the Lead Architect in a multi-national company that operates production facilities in 24 countries and sells its products in over 100 countries. It has three sectors: Transportation, Energy Systems, and Automation. Each sector has several business units that operate independently. An Executive Vice-President heads each of the business units. Traditionally, each business unit has acted independently with few shared customers or suppliers. They were expected to share financial and human resource information from the corporate headquarters.
+
 A consultancy firm has recommended a realignment that will enhance sharing of product information across business units. The implementation of this strategic realignment will require the **development of integrated customer information systems and product information systems**.
+
 The company has a mature Enterprise Architecture practice and uses the TOGAF standard as the basis for its method and deliverables. An architecture development program has been created to address the development of these capabilities and is about to commence. The Enterprise Architecture program is sponsored by the CIO.
+
 At the most recent meeting of the Corporate Board, the Chairman of **the Board expressed a concern about the risk to the business** while a potentially disruptive program is being rolled out across the company. He noted that several competitors had tried similar initiatives with poor results. The **Corporate Board agreed that this concern must be satisfactorily addressed before this program can commence**.
 You have been asked to recommend an approach to address the concerns raised.
 Based on the TOGAF standard, which of the following is the best answer?
@@ -83,7 +89,9 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## ADM Preliminary Phase
 
 You are serving as the Lead Architect for a European Insurance company. The company has grown substantially over the last 15 years. Due to the many mergers and acquisitions, the application portfolio of the enterprise has grown significantly with little consideration for consolidation or rationalization. Each business unit has managed its own applications, with no coordination between them. In the last two years the competition in the insurance industry has increased with the advent of many Internet-based comparison sites leading to increased pressure to reduce the operational expenses including IT.
+
 The Corporate Board has approved the directive to establish an Enterprise Architecture program within the company to **integrate and rationalize the application portfolio and introduce a company-wide customer information management system**. The Corporate Board has also given a strategic direction that the company should expand its markets significantly to cover all the member country states of the European Union in the next 24 months.
+
 The **company has no existing Enterprise Architecture**. The CIO is the sponsor of the program and has mandated the TOGAF standard for the architecture method and deliverables. The CIO has established an Architecture Board and called the first meeting.
 You have been asked how you will establish the Enterprise Architecture program.
 Based on the TOGAF standard, which of the following is the best answer?
@@ -97,17 +105,19 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## ADM Architecture Phases (Phases B-C-D)
 
 You are working as the Lead Enterprise Architecture for a global manufacturing firm. The firm has decided to improve the efficiency of its sales force by replacing its legacy fax and paper-based configuration and ordering systems with a hand-held device solution. This will impact both the firm and its suppliers.
+
 The firm uses the TOGAF framework for the internal Enterprise Architecture and uses an iterative approach to applying the ADM. The Enterprise Architecture team has established the Architecture Capability for this project and also completed the first iteration of the Architecture Definition cycle, using a Baseline First approach. The CIO is the sponsor of the Enterprise Architecture program.
+
 The initial iteration has established the approach, the scope, and vision for the project. A set of Architecture Principles has been established based on the example set provided in the TOGAF standard. The CIO has highlighted the importance of adhering to the following principles:
 - Data is an asset
 - Data is shared
 - Data is accessible
 
 The initial iteration has also established a number of business goals and objectives for the new target system. The principal goal is to give the sales force in the field direct access to the sales process, allowing sales staff to create and verify product configurations, check pricing and availability, and to place an order while still on the client site with the customer. As part of achieving this goal, the architectures developed will need to address the following stakeholder concerns:
-- What changes to existing business processes are needed?
-- What data will need to be shared?
-- How will distributed data be secured?
-- What non-sales applications will need to be integrated with any new sales applications?
+- **What changes to existing business processes** are needed?
+- **What data will need to be shared**?
+- **How will distributed data be secured**?
+- **What non-sales applications will need to be integrated** with any new sales applications?
 You have been asked to identify the most appropriate artifacts (catalogs, matrices, and diagrams) for the second iteration of the Architecture Development Cycle.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -120,8 +130,10 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## ADM Architecture Phases (Phases B-C-D) and Opportunities and Solutions (Phase E)
 
 You are serving as the Lead Enterprise Architect for a major bank, leading a group of domain architects as well as working with the corporate project management office, strategic planners, and operations management planners. The bank has been in business for over 60 years, growing through a series of acquisitions with other financial institutions. It has a large IT service department and routinely has over 100 infrastructure and service projects in progress. The Governing Board has decided that a more structured approach to its infrastructure and services is necessary to safeguard the business, especially given the recent turmoil in the financial markets.
-As a result, the CIO has sponsored the creation of an Enterprise Architecture group. This group has adopted the TOGAF 9 standard as the basis for its Enterprise Architecture, developed an Architecture Vision, which has been approved, and defined a set of domain architectures. The time has come to consolidate the domain architectures and review the current initiatives and projects in the corporate portfolio as well as potentially create new projects in order to realize the vision.
-The CIO has stated that the implementation approach must accommodate the constantly occurring changes to the technology and business landscapes. Shareholders want to see not just a vision but want to know that there is a flexible, integrated Implementation and Migration Plan that has the best chance of realizing the vision in these uncertain times.
+
+As a result, the CIO has sponsored the creation of an Enterprise Architecture group. This group has adopted the TOGAF 9 standard as the basis for its Enterprise Architecture, developed an Architecture Vision, which has been approved, and defined a set of domain architectures. The time has come to **consolidate the domain architectures** and review the current initiatives and projects in the corporate portfolio as well as potentially create new projects in order to realize the vision.
+
+The CIO has stated that the implementation approach must accommodate the constantly occurring changes to the technology and business landscapes. Shareholders want to see not just a vision but want to know that there is a flexible, **integrated Implementation and Migration Plan** that has the best chance of realizing the vision in these uncertain times.
 A meeting has been scheduled with the stakeholders and you have been asked to recommend the best approach to address the concerns raised.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -135,8 +147,11 @@ Based on the TOGAF standard, which of the following is the best answer?
 
 ### Case study 1
 You are serving as the Lead Architect for a telecommunications company that recently formed through the merging of three other telecommunication companies. The business operating model has been unified, and an Enterprise Architecture program has been put in place as part of the integration of the three organizations.
+
 The company has adopted the TOGAF 9 Architecture Development Method. The Architecture Board has approved the outline Implementation and Migration Plan and they are now at the stage of conducting detailed migration planning. A working group has been formed that involves all the key architects and the stakeholders from the corporate matrix (those who will work on the project).
+
 It is recognized that others outside the Enterprise Architecture team will have the responsibility to fund, build, support, and use what is put in place based on the Enterprise Architecture. For the company, getting this right is critical especially as the competition in the marketplace has been fierce and the lines of business have been resistant to implementing any new business model.
+
 The CIO is the sponsor of the program and has mandated an increment approach to rollout the integration program. You have been asked to describe:
 - How you would conduct migration planning
 - What you would be implementing
@@ -152,8 +167,11 @@ Based on the TOGAF standard, which of the following is the best answer?
 
 ### Case study 2
 You are serving as the Lead Architect for a telecommunications company that recently formed through the merging of three other telecommunication companies. The business operating model has been unified, and an Enterprise Architecture program has been put in place to manage the integration of the three organizations.
-The company has adopted the TOGAF 9 Architecture Development Method. It has successfully completed the architecture definition phases of an ADM cycle and has identified a large collection of candidate roadmap components. The CIO is the sponsor of the program. She is concerned about the risks to the existing revenue lines and would also like to ensure that the most cost-beneficial projects are undertaken first.
-The Architecture Board has approved the draft Architecture Definition Document and they are now at the stage of conducting migration planning. A working group has been formed that involves all the key architects and the stakeholders from the corporate matrix (those who will work on the project).
+
+The company has adopted the TOGAF 9 Architecture Development Method. It has successfully completed the architecture definition phases of an ADM cycle and has identified a large collection of candidate roadmap components. The CIO is the sponsor of the program. She is concerned about the risks to the existing revenue lines and would also like to **ensure that the most cost-beneficial projects are undertaken first**.
+
+The Architecture **Board has approved the draft Architecture Definition Document and they are now at the stage of conducting migration planning**. A working group has been formed that involves all the key architects and the stakeholders from the corporate matrix (those who will work on the project).
+
 You have been asked to recommend how they can identify and prioritize the projects from these roadmap components, taking account of the CIO’s concerns.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -166,11 +184,15 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Implementation Governance (Phase G)
 
 You are serving as the Lead Architect for a business unit within a major logistics company. The business unit has selected a Commercial Off-The-Shelf (COTS) Market Analytics solution in order to improve its capability to respond to market demands for its new rail-based freight delivery service. It has been identified that the current system does not provide the required functionality to support the marketing activities. Its performance limitations cause unacceptable delays and missed opportunities to meet market targets. Clearly, the current system is costing the business unit in terms of lost revenue.
+
 The company has a mature Enterprise Architecture capability spanning all of its business units and has adapted the TOGAF framework as the basis for its ongoing program. The CIO is the sponsor of the Enterprise Architecture practice.
+
 The Enterprise Architecture team initiated a project with the business unit that has defined the business vision and requirements for the new system. It includes a detailed business process analysis. A solution has been proposed that can support the existing applications and technologies currently in place. The proposed solution requires a non-standard operating system platform to support the business application and also requires different web server software to the current supported web server solutions. The Architecture Board has held a review, and it was noted that some of these project requirements were not consistent with the company’s current infrastructure standards.
+
 After discussions with several senior executives, the CIO feels that he must support the business unit’s urgent need to deploy the Market Analytics package. He has approved the implementation. A project manager has been chosen, and a feasibility meeting has been held with a decision to move forward. The project is critical and must be completed as quickly as possible; a contract has been signed with the software vendor to implement the solution.
+
 The vendor has provided a statement of work that has passed through the migration planning phase, and major impacts to existing systems and the infrastructure have been documented.
-The CIO has asked the Enterprise Architecture team to prepare for Phase G, ensuring that the key performance indicators for system performance and security are met, and the project remains within budget.
+The CIO has asked the Enterprise Architecture team to **prepare for Phase G**, ensuring that **the key performance indicators for system performance and security are met**, and the project remains within budget.
 You have been asked to recommend a plan to implement the direction from the CIO.
 Based on the TOGAF standard, which of the following is the best answer?
 
@@ -183,8 +205,11 @@ Based on the TOGAF standard, which of the following is the best answer?
 ## Data Architecture (Phase C)
 
 UTrack Transports is a strong UK logistics company. The head of the strategic marketing division engaged the Principal Architect issuing a Request for architectural work to design an enhancement of the current Enterprise Data Warehouse system.
+
 An enhancement is needed to support the change in the business model; UTrack wants to leverage on customer data collected during business as usual activities and anonymize them to offer marketing agencies a fresh and accessible source of analytics data, this will increase the company revenues. TOGAF 9 is the architectural framework in use.
-Refer to the scenario above The Principal Architect has decided to ask you as Business Intelligence Subject Matter Expert to design the Data Architecture. The Chief Architect shared with you the Architecture Definition Document including the Business Architecture design.
+
+Refer to the scenario above The Principal Architect has decided to ask you as Business Intelligence Subject Matter Expert to **design the Data Architecture**. The Chief Architect shared with you the Architecture Definition Document including the Business Architecture design.
+
 You now need to choose the artifacts you want to produce as part of the Data Architecture design. Identify the best answer accordingly to the TOGAF 9. 
 
 | ## |   **Option**   |  **Recommendation**    |  
@@ -198,8 +223,10 @@ You now need to choose the artifacts you want to produce as part of the Data Arc
 ## Architecture Vision (Phase A)
 
 Chiamin Metals is a leading world-wide manufacturer for continuous casting and bottom pouring powders. In addition to mould powders, the company also produces cored wire for secondary metallurgy. Chiamin Metals offers a variety of products and uses a paper-based catalog to sponsor them. A new CIO has joint the enterprise and has set up a team of Enterprise Architects following the TOGAF 9 practice.
-The main challenge is now to offer to Chiamin Metals customers a centralized and reliable entry point for their request via the implementation of a global online portal. This will allow the management of new marketing activities and will enable the new Chiamin Metals' ecommerce service. Refer to the scenario above
-You are the Chief Architect and the CIO asked you to present an Architecture Vision to address the above business problem. Identify the best answer accordingly to the TOGAF 9
+
+The main challenge is now to offer to Chiamin Metals customers a centralized and reliable entry point for their request via the implementation of a global online portal. This will allow the management of new marketing activities and will enable the new Chiamin Metals' ecommerce service. 
+
+You are the Chief Architect and the CIO asked you to present an **Architecture Vision** to address the above business problem. Identify the best answer accordingly to the TOGAF 9
 
 | ## |   **Option**   |  **Recommendation**    |  
 | ----------- | ----------- | ----------- | 
