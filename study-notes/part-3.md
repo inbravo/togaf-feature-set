@@ -88,10 +88,10 @@
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/migration-planning.png" width="2000"></p>
 
-## [Part 1 - Introduction ](study-notes/part-1.md)
-## [Part 2 - ADM ](study-notes/part-2.md)
-## [Part 4 - Architecture Content Framework ](study-notes/part-4.md)
-## [Part 5 - Enterprise Continuum ](study-notes/part-5.md)
-## [Part 6 - Architecture Capability Framework ](study-notes/part-6.md)
+## [Part 1 - Introduction ](part-1.md)
+## [Part 2 - ADM ](part-2.md)
+## [Part 4 - Architecture Content Framework ](part-4.md)
+## [Part 5 - Enterprise Continuum ](part-5.md)
+## [Part 6 - Architecture Capability Framework ](part-6.md)
 
 ### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
