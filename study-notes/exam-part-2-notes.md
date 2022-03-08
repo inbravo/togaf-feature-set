@@ -1,6 +1,6 @@
 # Part 2 - Case studies
 
-## Business Scenarios
+## ADM Preliminary Phase (A) Usage of Business Scenarios
 
 You are serving as the Lead Architect to a multi-national coffeehouse company. The company is the second largest coffeehouse chain in the world and the largest in the United Kingdom. It currently has over 10,000 stores in 31 countries. The company has a long tradition of innovation, offering its customers a wide range of products and services to attract them to stay longer in their stores. They were one of the first stores to offer free Wi-Fi Internet access across their whole chain.
 
