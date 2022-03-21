@@ -88,6 +88,10 @@
 
 <p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/migration-planning.png" width="2000"></p>
 
+#### Capability Based Planning
+- The capabilities are directly derived from the corporate strategic plan and/or include the Enterprise Architects and satisfy the enterprise goals, objectives, and strategies
+<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/32_relationships.png" width="900"></p>
+
 ## [Part 1 - Introduction ](part-1.md)
 ## [Part 2 - ADM ](part-2.md)
 ## [Part 4 - Architecture Content Framework ](part-4.md)
