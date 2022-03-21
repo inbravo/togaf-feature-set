@@ -95,7 +95,7 @@ You are serving as the Lead Architect for a European Insurance company. The comp
 The Corporate Board has approved the directive to establish an Enterprise Architecture program within the company to **integrate and rationalize the application portfolio and introduce a company-wide customer information management system**. The Corporate Board has also given a strategic direction that the company should expand its markets significantly to cover all the member country states of the European Union in the next 24 months.
 
 The **company has no existing Enterprise Architecture**. The CIO is the sponsor of the program and has mandated the TOGAF standard for the architecture method and deliverables. The CIO has established an Architecture Board and called the first meeting.
-You have been asked how you will establish the Enterprise Architecture program.
+You have been asked **how you will establish the Enterprise Architecture program**.
 Based on the TOGAF standard, which of the following is the best answer?
 
 | ## |   **Option**   |  **Recommendation**    |  
