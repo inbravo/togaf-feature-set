@@ -232,8 +232,8 @@ You are the Chief Architect and the CIO asked you to present an **Architecture V
 
 | ## |   **Option**   |  **Recommendation**    |  
 | ----------- | ----------- | ----------- | 
-| 1 | You identify key stakeholders, their concerns, and define the key business requirements to be addressed in the architecture engagement and generate a Stakeholder Map. You Evaluate business capabilities and execute a Business Transformation Readiness Assessment. You apply the Business Scenarios technique to create a high-level view of the Baseline and Target Architectures also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Best answer |
-| 2 | As requested by the CIO you focus on the Architecture Vision documentation and apply the Business Scenarios technique to create a high-level view of the Baseline and Target Architectures also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | |
-| 3 | You create a high-level view of the Target Architectures and then present them to the CIO. | |
-| 4 | As requested by the CIO you focus on the Architecture Vision and create a detailed view of the Baseline Architectures. This is done for Business, Data, Application and Technology domains and then presented to the CIO using the Architecture Definition Document. | |
+| 1 | You identify key stakeholders, their concerns, and define the key business requirements to be addressed in the architecture engagement and **generate a Stakeholder Map**. You Evaluate business capabilities and execute a **Business Transformation Readiness Assessment**. You apply the **Business Scenarios technique** to **create a high-level view** of the Baseline and Target Architectures also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Best answer |
+| 2 | As requested by the CIO you focus on the **Architecture Vision documentation** and apply the **Business Scenarios technique to create a high-level view of the Baseline and Target Architectures** also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Second best answer, as its Stakeholder Maplacking the essential step of creating Stakeholder MapStakeholder Map |
+| 3 | You create a high-level view of the Target Architectures and then present them to the CIO. | Third best answer |
+
 
