@@ -134,8 +134,8 @@ The initial iteration has also established a number of business goals and object
 - **What data will need to be shared**?
 - **How will distributed data be secured**?
 - **What non-sales applications will need to be integrated** with any new sales applications?
-You have been asked to identify the most appropriate artifacts (catalogs, matrices, and diagrams) for the second iteration of the Architecture Development Cycle.
-Based on the TOGAF standard, which of the following is the best answer?
+
+You have been asked to identify the most appropriate artifacts (catalogs, matrices, and diagrams) for the second iteration of the Architecture Development Cycle. Based on the TOGAF standard, which of the following is the best answer?
 
 | ## |   **Option**   |  **Recommendation**    |  
 | ----------- | ----------- | ----------- | 
