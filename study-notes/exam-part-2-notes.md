@@ -9,7 +9,7 @@ The company has recently received approval to acquire the fourth largest coffeeh
 
 The CIO is the sponsor of the activity. The Chief Architect has indicated that this program should make use of iteration with the ADM. As the program moves into **Phase A** within the **initial iteration of an Architecture Capability cycle**, the CIO has emphasized the need to **ensure that the architecture is embraced across the enterprise**, especially **amongst powerful stakeholders** across both organizations.
 
-You have been asked to explain how you would ensure that the Architecture Vision responds to the requirements of the stakeholders.
+You have been asked to explain **how you would ensure that the Architecture Vision responds to the requirements of the stakeholders**.
 Based on the TOGAF standard, which of the following is the best answer?
 
 | ## |   **Option**   |  **Recommendation**    |  
