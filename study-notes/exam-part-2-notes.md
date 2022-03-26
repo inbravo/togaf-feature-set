@@ -1,7 +1,8 @@
 # Part 2 - Case studies
 
-## ADM Preliminary Phase (A) Usage of Business Scenarios
+## Vision Phase (A)
 
+### Case study 1
 You are serving as the Lead Architect to a multi-national coffeehouse company. The company is the second largest coffeehouse chain in the world and the largest in the United Kingdom. It currently has over 10,000 stores in 31 countries. The company has a long tradition of innovation, offering its customers a wide range of products and services to attract them to stay longer in their stores. They were one of the first stores to offer free Wi-Fi Internet access across their whole chain.
 
 The company has recently received approval to acquire the fourth largest coffeehouse chain. In order to integrate the new acquisition, an Enterprise Architecture program has been initiated, using the TOGAF standard as the method and guiding framework.
@@ -16,6 +17,19 @@ Based on the TOGAF standard, which of the following is the best answer?
 | 1 | You would **conduct a series of business scenarios with the stakeholders impacted by the acquisition**. This will enable you to **discover and document the business requirements** for the merger activity and determine which stakeholders are likely to support or block the initiative. **It will also enable validation of the scope** for the activity. Based on the input you would **develop a high-level description of the Baseline and Target Architectures**. | This is the best answer. **Business scenarios** are the **recommended technique** for developing the Architecture Vision and ensuring that **requirements are identified and validated**. |
 | 2 | You would identify all the stakeholders involved in the merger activity, their concerns, and any cultural factors. You would classify their positions and influence, **recording the results in a Stakeholder Map**. You would then focus on the most influential stakeholders ensuring that you **identify the most relevant architecture viewpoints for each stakeholder and validate that their concerns are being addressed**. |  This is **less correct**. **Stakeholder analysis and the development of a Stakeholder Map** is the technique that the **TOGAF standard recommends for identifying and engaging the key stakeholders in Phase A**. However, **running a business scenario would then enable identification and validation of requirements** from the stakeholders |
 | 3 | The effective communication of targeted information to the **powerful stakeholders** at the right time is a critical success factor for such a merger. Therefore, you would **develop a Communications Plan to ensure that they are engaged in the program**, are made aware of the key features of the architecture, and have the opportunity to check that their requirements are being addressed. | This answer is **less correct since it focuses only on the powerful stakeholders, and thus could omit key stakeholders** that should be involved. The Communications Plan is produced from the work done by the Stakeholder Management approach suggested in answer A. |
+
+### Case Study 2
+Chiamin Metals is a leading world-wide manufacturer for continuous casting and bottom pouring powders. In addition to mould powders, the company also produces cored wire for secondary metallurgy. Chiamin Metals offers a variety of products and uses a paper-based catalog to sponsor them. A new CIO has joint the enterprise and has set up a team of Enterprise Architects following the TOGAF 9 practice.
+
+The main challenge is now to offer to Chiamin Metals customers a centralized and reliable entry point for their request via the implementation of a global online portal. This will allow the management of new marketing activities and will enable the new Chiamin Metals' ecommerce service. 
+
+You are the Chief Architect and the CIO asked you to present an **Architecture Vision** to address the above business problem. Identify the best answer accordingly to the TOGAF 9
+
+| ## |   **Option**   |  **Recommendation**    |  
+| ----------- | ----------- | ----------- | 
+| 1 | You identify key stakeholders, their concerns, and define the key business requirements to be addressed in the architecture engagement and **generate a Stakeholder Map**. You Evaluate business capabilities and execute a **Business Transformation Readiness Assessment**. You apply the **Business Scenarios technique** to **create a high-level view** of the Baseline and Target Architectures also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Best answer. Vision phase has 3 key steps - (1) **Create a Stakeholder Map** (2) **Business Transformation Readiness Assessment** (3) **Business Scenarios Technique to create Architecture Vision** |
+| 2 | As requested by the CIO you focus on the **Architecture Vision documentation** and apply the **Business Scenarios technique to create a high-level view of the Baseline and Target Architectures** also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Second best answer, as its **lacking the essential step of creating Stakeholder Map** |
+| 3 | You create a high-level view of the Target Architectures and then present them to the CIO. | Third best answer |
 
 ## Architecture Maturity and Skills Framework
 
@@ -220,20 +234,3 @@ You now need to choose the artifacts you want to produce as part of the Data Arc
 | 2 | You first list the data used across the enterprise using a Data Entity/Data Component Matrix, including data entities and also the data components where data entities are stored. You then classify what the data source are and the relationship with the data entities via a Role/System Catalog. You finally identify common data requirements using a Data Use Case Diagram. | |
 | 3 | You first list the data used across the enterprise using a Data Entity/Data Component Catalog, including data entities and also the data components where data entities are stored. You then classify what the data source are and the relationship with the data entities via a System/Data Matrix. | |
 | 4 | You first list the data used across the enterprise using a Data Entity/Data Component Catalog, including data entities and also the data components where data entities are stored. You then assign ownership of data entities to the organization via a System/Data Matrix. | |
-
-
-## Architecture Vision (Phase A)
-
-Chiamin Metals is a leading world-wide manufacturer for continuous casting and bottom pouring powders. In addition to mould powders, the company also produces cored wire for secondary metallurgy. Chiamin Metals offers a variety of products and uses a paper-based catalog to sponsor them. A new CIO has joint the enterprise and has set up a team of Enterprise Architects following the TOGAF 9 practice.
-
-The main challenge is now to offer to Chiamin Metals customers a centralized and reliable entry point for their request via the implementation of a global online portal. This will allow the management of new marketing activities and will enable the new Chiamin Metals' ecommerce service. 
-
-You are the Chief Architect and the CIO asked you to present an **Architecture Vision** to address the above business problem. Identify the best answer accordingly to the TOGAF 9
-
-| ## |   **Option**   |  **Recommendation**    |  
-| ----------- | ----------- | ----------- | 
-| 1 | You identify key stakeholders, their concerns, and define the key business requirements to be addressed in the architecture engagement and **generate a Stakeholder Map**. You Evaluate business capabilities and execute a **Business Transformation Readiness Assessment**. You apply the **Business Scenarios technique** to **create a high-level view** of the Baseline and Target Architectures also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Best answer. Vision phase has 3 key steps - (1) **Create a Stakeholder Map** (2) **Business Transformation Readiness Assessment** (3) **Business Scenarios Technique to create Architecture Vision** |
-| 2 | As requested by the CIO you focus on the **Architecture Vision documentation** and apply the **Business Scenarios technique to create a high-level view of the Baseline and Target Architectures** also based on the stakeholder concerns, business capability requirements, scope, constraints, and principles. | Second best answer, as its **lacking the essential step of creating Stakeholder Map** |
-| 3 | You create a high-level view of the Target Architectures and then present them to the CIO. | Third best answer |
-
-
