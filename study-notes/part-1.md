@@ -57,7 +57,7 @@ A discipline -
 5. ***Enterprise Continuum & Tools*** discusses appropriate taxonomies and tools to categorize and store the outputs of architecture activity
 6. ***Architecture Capability Framework*** discusses the organization, processes, skills, roles, and responsibilities required to establish and operate an architecture function within an enterprise
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/01_structure.png" width="700"></p>
+<p align="center"><img src="../references/images/01_structure.png" width="700"></p>
 
 #### Bsiness Imperatives behind the Requirements for Architecture Work
 - Business requirements
@@ -80,4 +80,4 @@ A discipline -
 ## [Part 5 - Enterprise Continuum ](part-5.md)
 ## [Part 6 - Architecture Capability Framework ](part-6.md)
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
+### Disclaimer [The Open Group](http://web.archive.org/web/20250210035511/https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.

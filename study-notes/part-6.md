@@ -10,7 +10,7 @@
    - Architecture Maturity Models
    - Architecture Skills Framework
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/02_concepts4.png" width="700"></p>
+<p align="center"><img src="../references/images/02_concepts4.png" width="700"></p>
 
 ####  Use of ADM to Establish an Architecture Capability
 - The establishment of an Architecture Capability can be supported by the TOGAF ADM
@@ -53,11 +53,11 @@
    |  Environment Management     |  Architectures |
 
  
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_concepts.png" width="700"></p>
+<p align="center"><img src="../references/images/50_concepts.png" width="700"></p>
 
 - An Architecture Governance structure for will typically include Global governance board, Local governance board, Design authorities and Working parties
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/50_org.png" width="700"></p>
+<p align="center"><img src="../references/images/50_org.png" width="700"></p>
 
 #### Scoping the Architecture 
 - Four dimensions (BDAT) are typically used in order to define and limit the scope of an architecture
@@ -76,7 +76,7 @@
 
 #### Architecture Compliance Review Process
 - Architecture compliance review is done at ***Phase G- Implementation Governance***
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/48_review.png" width="700"></p>
+<p align="center"><img src="../references/images/48_review.png" width="700"></p>
 
 #### Governance repository Areas of Information
 - **Reference Data** (collateral from the organization's own repositories/Enterprise Continuum, including external data; e.g., COBIT, IT4IT)
@@ -89,4 +89,4 @@
 ## [Part 4 - Architecture Content Framework ](part-4.md)
 ## [Part 5 - Enterprise Continuum ](part-5.md)
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
+### Disclaimer [The Open Group](http://web.archive.org/web/20250210035511/https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.

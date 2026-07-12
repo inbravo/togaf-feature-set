@@ -6,21 +6,21 @@
 - It contains the architectures that exist both within the enterprise and in the IT industry at large
 - The Enterprise Continuum enables the organization of re-usable architecture artifacts and solution assets to maximize the enterprise architecture investment opportunities
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_entcon_oview.png" width="700"></p>
+<p align="center"><img src="../references/images/39_entcon_oview.png" width="700"></p>
 
 #### Architecture Continuum
 - The Architecture Continuum illustrates how architectures are developed and evolved across a continuum ranging from Foundation Architectures
 - The leftwards direction focuses on meeting enterprise needs and business requirements 
 - The rightwards direction focuses on leveraging architectural components and building blocks
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_archcon.png" width="700"></p>
+<p align="center"><img src="../references/images/39_archcon.png" width="700"></p>
 
 #### Solutions Continuum
 - The relationship between the Architecture Continuum and the Solutions Continuum is one of ***guidance, direction, and support***
 - The Solutions Continuum is a population of the architecture with reference building blocks
 - The Solutions Continuum represents the detailed specification and construction of the architectures at the corresponding levels of the Architecture Continuum
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/39_solcon.png" width="700"></p>
+<p align="center"><img src="../references/images/39_solcon.png" width="700"></p>
 
 #### Foundation Architecture
 - Consists of ***generic components, inter-relationships, principles, and guidelines*** that provide a foundation on which more specific architectures can be built
@@ -59,7 +59,7 @@
 - Determine the responsibilities for each standing architecture team
 - Determine the relationships between architectures
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/40_partitioning5.png" width="700"></p>
+<p align="center"><img src="../references/images/40_partitioning5.png" width="700"></p>
 
 #### Architecture Repository
 - Operating a mature Architecture Capability within a large enterprise creates a huge volume of architectural output 
@@ -80,7 +80,7 @@
    -  ***Architecture Requirements Repository*** provides a view of all authorized architecture requirements
    -  ***Solutions Landscape*** presents an architectural representation of the Solution Building Blocks (SBBs)  
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/41_archrepos.png" width="700"></p>
+<p align="center"><img src="../references/images/41_archrepos.png" width="700"></p>
 
 #### Technical Reference Model (TRM)
 - The Foundation Architecture is embodied within the Technical Reference Model (TRM)
@@ -91,13 +91,13 @@
    - ***Application Portability*** via the Application Platform Interface
    - ***Interoperability*** via the Communications Infrastructure Interface
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/43_trm_detail.png" width="400"></p>
+<p align="center"><img src="../references/images/43_trm_detail.png" width="400"></p>
 
 #### Integrated Information Infrastructure Reference Model (III-RM)
 - Fundamentally it is an Application Architecture Reference Model. This model is a subset of the TOGAF TRM
 - Model for developing, managing, and operating an integrated information infrastructure
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/44_iiirm5.png" width="700"></p>
+<p align="center"><img src="../references/images/44_iiirm5.png" width="700"></p>
 
 #### Industry specific models
 - TM Forum for Telecommunications
@@ -111,4 +111,4 @@
 ## [Part 4 - Architecture Content Framework ](part-4.md)
 ## [Part 6 - Architecture Capability Framework ](part-6.md)
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
+### Disclaimer [The Open Group](http://web.archive.org/web/20250210035511/https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.

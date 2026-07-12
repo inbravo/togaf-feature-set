@@ -19,7 +19,7 @@
 
 #### Identify Stakeholders
 -  The below mentioned sample distinguishes 22 types of stakeholder, in five broad categories
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/24_stakeholders.png" width="700"></p>
+<p align="center"><img src="../references/images/24_stakeholders.png" width="700"></p>
 
 #### Classify Stakeholder Positions
 - It is important to assess the readiness of each stakeholder to behave in a supportive manner
@@ -31,10 +31,10 @@
 
 #### Determine Stakeholder Management Approach
 - A sample Power/Interest Matrix Example
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/24_stakeholder_grid.png" width="400"></p>
+<p align="center"><img src="../references/images/24_stakeholder_grid.png" width="400"></p>
 
 #### Tailor Engagement Deliverables
 - Identify catalogs, matrices, and diagrams that the architecture engagement needs to produce and validate with each stakeholder group to deliver an effective architecture model.
 - It is important to pay particular attention to stakeholder interests by defining specific catalogs, matrices, and diagrams that are relevant for a particular Enterprise Architecture model. This enables the architecture to be communicated to, and understood by, all the stakeholders, and enables them to verify that the Enterprise Architecture initiative will address their concerns.
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.
+### Disclaimer [The Open Group](http://web.archive.org/web/20250210035511/https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights.

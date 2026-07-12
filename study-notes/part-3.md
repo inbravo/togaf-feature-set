@@ -4,16 +4,16 @@
 
    |    Technique  | Applicable Phase  | Description |
    | ----------- | -----------  | -----------  |
-   | [Applying Iteration to the ADM](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap19.html) | ***ALL*** | ***Baseline First*** or ***Target First*** Architecture Definition |
-   | [Architecture Principles](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | ***Preliminary & Phase A*** | Principle Qualities: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)*** |
-   | [Stakeholder Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) | ***Phase A*** | It is important to pay particular attention to stakeholder interests by defining specific ***catalogs, matrices, and diagrams that are relevant*** for a particular Enterprise Architecture model. This enables the architecture to be communicated to, and understood by, all the stakeholders |
-   | [Architecture Patterns](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) |  ***Phase A-B-C-D*** | ***Architecture*** Pattern, ***Design*** Pattern or  ***Idiom*** (programming language specific pattern)  |
-   | [Gap Analysis](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) | ***Phase E*** | Highlight a shortfall between the Baseline Architecture and the Target Architecture; items that have been ***Deliberately Omitted, Accidentally Left Out, or Not Yet Defined***  |
-   | [Migration Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |  ***Phase E & F*** | There are 5 techniques: ***Implementation Factor Assessment & Deduction Matrix***, ***Consolidated Gaps, Solutions, & Dependencies Matrix***, ***Architecture Definition Increments Table***, ***Transition Architecture State Evolution Table***, ***Business Value Assessment Technique*** |
-   | [Interoperability Requirements](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | ***ALL***  | Defining the degree to which the information and services are to be shared  |
-   | [Business Transformation Readiness Assessment (BRTP)](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) | ***Phases B-C-D***  |Used in  ***Capability Assessment***   |
-   | [Risk Management](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
-   | [Capability-Based Planning](https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | It is business-driven and business-led and combines the requisite efforts of all lines of business to achieve the desired capability |
+   | [Applying Iteration to the ADM](http://web.archive.org/web/20250425093343/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap19.html) | ***ALL*** | ***Baseline First*** or ***Target First*** Architecture Definition |
+   | [Architecture Principles](http://web.archive.org/web/20240420232421/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap20.html) | ***Preliminary & Phase A*** | Principle Qualities: ***URCCS- Understandable (U), Robust (R), Complete (C), Consistent (C), Stable (S)*** |
+   | [Stakeholder Management](http://web.archive.org/web/20250215005800/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap21.html) | ***Phase A*** | It is important to pay particular attention to stakeholder interests by defining specific ***catalogs, matrices, and diagrams that are relevant*** for a particular Enterprise Architecture model. This enables the architecture to be communicated to, and understood by, all the stakeholders |
+   | [Architecture Patterns](http://web.archive.org/web/20250404154619/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap22.html) |  ***Phase A-B-C-D*** | ***Architecture*** Pattern, ***Design*** Pattern or  ***Idiom*** (programming language specific pattern)  |
+   | [Gap Analysis](http://web.archive.org/web/20240420230751/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap23.html) | ***Phase E*** | Highlight a shortfall between the Baseline Architecture and the Target Architecture; items that have been ***Deliberately Omitted, Accidentally Left Out, or Not Yet Defined***  |
+   | [Migration Planning](http://web.archive.org/web/20240819100343/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap24.html) |  ***Phase E & F*** | There are 5 techniques: ***Implementation Factor Assessment & Deduction Matrix***, ***Consolidated Gaps, Solutions, & Dependencies Matrix***, ***Architecture Definition Increments Table***, ***Transition Architecture State Evolution Table***, ***Business Value Assessment Technique*** |
+   | [Interoperability Requirements](http://web.archive.org/web/20220702080901/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap25.html) | ***ALL***  | Defining the degree to which the information and services are to be shared  |
+   | [Business Transformation Readiness Assessment (BRTP)](http://web.archive.org/web/20220702080227/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) | ***Phases B-C-D***  |Used in  ***Capability Assessment***   |
+   | [Risk Management](http://web.archive.org/web/20220702080227/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap26.html) |  ***ALL*** | ***Initial Risk*** (prior to mitigating actions) and ***Residual Risk*** (after mitigating actions) |
+   | [Capability-Based Planning](http://web.archive.org/web/20240223231407/https://pubs.opengroup.org/architecture/togaf92-doc/arch/chap27.html) |  ***ALL*** | It is business-driven and business-led and combines the requisite efforts of all lines of business to achieve the desired capability |
 
 #### Architecture Development Approaches
 - ***Baseline First or Bottom-Up Approach*** 
@@ -61,7 +61,7 @@
 - ***Assess the Risks*** for each readiness factor and ***Identify Improvement Actions*** to mitigate the risk
 - Work these actions into ***Phase E-F*** Implementation and Migration Plan
 
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/30_btep_summary.png" width="700"></p>
+<p align="center"><img src="../references/images/30_btep_summary.png" width="700"></p>
 
 #### Business Scenerios
 - ***Business Scenerios*** used at Phase A-B
@@ -81,16 +81,16 @@
     - ***Realistic***, in that the problem can be solved within the bounds of physical reality, time and cost constraints
     - ***Time-bound***, in that there is a clear statement of when the solution opportunity expires
 - Creating a business scenario involves the following steps
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf91-doc/arch/Figures/26_busscen1.png" width="500"></p>
+<p align="center"><img src="../references/images/26_busscen1.png" width="500"></p>
 
 #### Migration Planning
 - TOGAF suggests a number of techniques used to support migration planning in Phases E and F
 
-<p align="center"><img src="https://github.com/inbravo/togaf-feature-set/blob/main/references/images/migration-planning.png" width="2000"></p>
+<p align="center"><img src="../references/images/migration-planning.png" width="2000"></p>
 
 #### Capability Based Planning
 - The capabilities are directly derived from the corporate strategic plan and/or include the Enterprise Architects and satisfy the enterprise goals, objectives, and strategies
-<p align="center"><img src="https://pubs.opengroup.org/architecture/togaf92-doc/arch/Figures/32_relationships.png" width="900"></p>
+<p align="center"><img src="../references/images/32_relationships.png" width="900"></p>
 
 ## [Part 1 - Introduction ](part-1.md)
 ## [Part 2 - ADM ](part-2.md)
@@ -98,4 +98,4 @@
 ## [Part 5 - Enterprise Continuum ](part-5.md)
 ## [Part 6 - Architecture Capability Framework ](part-6.md)
 
-### Disclaimer [The Open Group](https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
+### Disclaimer [The Open Group](http://web.archive.org/web/20250210035511/https://pubs.opengroup.org/architecture/togaf92-doc/arch) owns the information rights reffered here.
